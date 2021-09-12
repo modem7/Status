@@ -19,6 +19,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 404
+    icon: https://favicons.githubusercontent.com/plex.tv
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
