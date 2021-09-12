@@ -12,7 +12,7 @@ sites:
     expectedStatusCodes:
       - 403
       - 404
-- name: Wiki
+  - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
     expectedStatusCodes:
