@@ -10,7 +10,7 @@ sites:
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Plex
-    url: https://plex.tc
+    url: https://plex.tv
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
