@@ -7,7 +7,7 @@ sites:
     url: https://www.google.com
   - name: Plex
     url: https://plex.tv
-  - name: Blog
+  - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
     expectedStatusCodes:
@@ -15,11 +15,17 @@ sites:
       - 404
   - name: Plex
     url: $PLEX_URL
+    icon: https://favicons.githubusercontent.com/plex.tv
     asignee: modem7
     expectedStatusCodes:
       - 403
       - 404
-    icon: https://favicons.githubusercontent.com/plex.tv
+  - name: Grafana
+    url: $GRAFANA_URL
+    asignee: modem7
+    expectedStatusCodes:
+      - 403
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
