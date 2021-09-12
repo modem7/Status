@@ -9,31 +9,31 @@ sites:
     url: $PLEX_URL
     icon: https://favicons.githubusercontent.com/plex.tv
     asignee: modem7
-    expectedStatusCodes:
-      - 403
+    # expectedStatusCodes:
+      # - 403
   - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
-    expectedStatusCodes:
-      - 403
+    # expectedStatusCodes:
+      # - 403
   - name: Overseer
     url: $OVERSEER_URL
     icon: https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico
     asignee: modem7
-    expectedStatusCodes:
-      - 403
+    # expectedStatusCodes:
+      # - 403
   - name: Ombi
     url: $OMBI_URL
     icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
     asignee: modem7
-    expectedStatusCodes:
-      - 403
+    # expectedStatusCodes:
+      # - 403
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://favicons.githubusercontent.com/grafana.com
     asignee: modem7
-    expectedStatusCodes:
-      - 403
+    # expectedStatusCodes:
+      # - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
