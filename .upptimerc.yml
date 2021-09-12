@@ -30,7 +30,7 @@ sites:
       - 403
   - name: Grafana
     url: $GRAFANA_URL
-    icon: https://github.com/grafana/grafana/blob/main/public/img/fav32.png
+    icon: https://favicons.githubusercontent.com/grafana.com
     asignee: modem7
     expectedStatusCodes:
       - 403
