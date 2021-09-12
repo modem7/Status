@@ -28,6 +28,10 @@ sites:
     url: $GRAFANA_URL
     icon: https://favicons.githubusercontent.com/grafana.com
     asignee: modem7
+  - name: Hastebin
+    url: $HASTEBIN_URL
+    icon: https://raw.githubusercontent.com/toptal/haste-server/master/static/favicon.ico
+    asignee: modem7
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
