@@ -51,3 +51,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Wiki
+      href: https://modem7.com
