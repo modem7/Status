@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "82.46%",
-    "uptimeDay": "82.46%",
-    "uptimeWeek": "82.46%",
-    "uptimeMonth": "82.46%",
-    "uptimeYear": "82.46%",
+    "uptime": "83.05%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "83.05%",
+    "uptimeMonth": "83.05%",
+    "uptimeYear": "83.05%",
     "time": 437,
     "timeDay": 437,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2021-09-12": 164
+      "2021-09-12": 158
     }
   },
   {
@@ -79,11 +79,11 @@
     "icon": "https://favicons.githubusercontent.com/omegawiki.modem7.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 105,
     "timeDay": 105,
     "timeWeek": 105,
@@ -99,18 +99,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
     "status": "up",
-    "uptime": "82.46%",
-    "uptimeDay": "82.46%",
-    "uptimeWeek": "82.46%",
-    "uptimeMonth": "82.46%",
-    "uptimeYear": "82.46%",
+    "uptime": "83.05%",
+    "uptimeDay": "83.05%",
+    "uptimeWeek": "83.05%",
+    "uptimeMonth": "83.05%",
+    "uptimeYear": "83.05%",
     "time": 437,
     "timeDay": 437,
     "timeWeek": 437,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2021-09-12": 164
+      "2021-09-12": 158
     }
   }
 ]
