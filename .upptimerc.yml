@@ -18,13 +18,13 @@ sites:
       - 403
   - name: Overseer
     url: $OVERSEER_URL
-    icon: https://github.com/sct/overseerr/blob/develop/public/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico
     asignee: modem7
     expectedStatusCodes:
       - 403
   - name: Ombi
     url: $OMBI_URL
-    icon: https://github.com/Ombi-app/Ombi/blob/develop/src/Ombi/wwwroot/images/favicon/favicon-32x32.png
+    icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
     asignee: modem7
     expectedStatusCodes:
       - 403
