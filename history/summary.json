@@ -59,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "down",
-    "uptime": "85.11%",
-    "uptimeDay": "85.11%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "85.11%",
-    "uptimeYear": "85.11%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "uptime": "85.29%",
+    "uptimeDay": "85.29%",
+    "uptimeWeek": "85.29%",
+    "uptimeMonth": "85.29%",
+    "uptimeYear": "85.29%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2021-09-12": 126
     }
@@ -90,7 +90,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
-      "2021-09-12": 840
+      "2021-09-12": 851
     }
   },
   {
@@ -99,16 +99,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "plex",
     "status": "down",
-    "uptime": "85.11%",
-    "uptimeDay": "85.11%",
-    "uptimeWeek": "85.11%",
-    "uptimeMonth": "85.11%",
-    "uptimeYear": "85.11%",
-    "time": 458,
-    "timeDay": 458,
-    "timeWeek": 458,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "uptime": "85.29%",
+    "uptimeDay": "85.29%",
+    "uptimeWeek": "85.29%",
+    "uptimeMonth": "85.29%",
+    "uptimeYear": "85.29%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
     "dailyMinutesDown": {
       "2021-09-12": 126
     }
