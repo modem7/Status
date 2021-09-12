@@ -1,7 +1,7 @@
 url: $GRAFANA_URL
 status: up
 code: 403
-responseTime: 106
-lastUpdated: 2021-09-12T20:14:31.236Z
+responseTime: 101
+lastUpdated: 2021-09-12T20:27:03.257Z
 startTime: Sun Sep 12 2021 20:07:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
