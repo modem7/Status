@@ -15,15 +15,13 @@ sites:
     url: https://omegawiki.modem7.com
     asignee: modem7
     expectedStatusCodes:
-      - 200
-      - 201
+      - 403
       - 404
   - name: Plex
     url: $PLEX_URL
     asignee: modem7
     expectedStatusCodes:
-      - 200
-      - 201
+      - 403
       - 404
 
 status-website:
