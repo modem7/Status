@@ -20,12 +20,14 @@ sites:
       - 404
   - name: Overseer
     url: $OVERSEER_URL
+    icon: https://github.com/sct/overseerr/blob/develop/public/favicon-32x32.png
     asignee: modem7
     expectedStatusCodes:
       - 403
       - 404
   - name: Grafana
     url: $GRAFANA_URL
+    icon: https://github.com/grafana/grafana/blob/main/public/img/fav32.png
     asignee: modem7
     expectedStatusCodes:
       - 403
