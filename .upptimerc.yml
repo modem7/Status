@@ -27,17 +27,3 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
   theme: dark
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
-
-#owner: koj-co # GitHub username
-#repo: upptime # GitHub repository name
-#sites: # List of endpoints to track
-#  - name: Google
-#    url: https://www.google.com
-#assignees: # Users to assign downtime issues (optional)
-#  - AnandChowdhary
-#status-website: # Status website (optional)
-#  cname: upptime.js.org # Custom domain CNAME
-#  name: Upptime # Status website title
