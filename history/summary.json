@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "84.41%",
-    "uptimeDay": "84.41%",
-    "uptimeWeek": "84.41%",
-    "uptimeMonth": "84.41%",
-    "uptimeYear": "84.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 415,
     "timeDay": 415,
     "timeWeek": 415,
     "timeMonth": 415,
     "timeYear": 415,
-    "dailyMinutesDown": {
-      "2021-09-12": 158
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wiki",
