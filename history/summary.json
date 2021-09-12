@@ -79,18 +79,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "grafana",
     "status": "up",
-    "uptime": "0.80%",
-    "uptimeDay": "0.80%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "0.80%",
-    "uptimeYear": "0.80%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 106,
     "timeWeek": 106,
     "timeMonth": 106,
     "timeYear": 106,
-    "dailyMinutesDown": {
-      "2021-09-12": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
