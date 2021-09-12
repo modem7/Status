@@ -18,6 +18,12 @@ sites:
     expectedStatusCodes:
       - 403
       - 404
+  - name: Overseer
+    url: $OVERSEER_URL
+    asignee: modem7
+    expectedStatusCodes:
+      - 403
+      - 404
   - name: Grafana
     url: $GRAFANA_URL
     asignee: modem7
