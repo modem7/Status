@@ -30,5 +30,5 @@ This repository contains the open-source uptime monitor and status page for [mod
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [modem7](https://github.com/modem7/)
+- Code: [MIT](./LICENSE) © [Anand Chowdhary](https://github.com/AnandChowdhary)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
