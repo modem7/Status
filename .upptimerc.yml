@@ -30,7 +30,7 @@ sites:
     asignee: modem7
   - name: Hastebin
     url: $HASTEBIN_URL
-    icon: https://raw.githubusercontent.com/toptal/haste-server/master/static/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.ico
     asignee: modem7
 
 status-website:
