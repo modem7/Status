@@ -14,6 +14,17 @@ sites:
   - name: Blog
     url: https://omegawiki.modem7.com
     asignee: modem7
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: Plex
+    url: $PLEX_URL
+    asignee: modem7
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
