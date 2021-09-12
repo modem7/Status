@@ -25,7 +25,7 @@ This repository contains the open-source uptime monitor and status page for [mod
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
+[**Visit our status website →**](https://status.modem7.com)
 
 ## 📄 License
 
