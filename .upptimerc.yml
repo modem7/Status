@@ -12,7 +12,8 @@ sites:
   - name: Plex
     url: https://plex.tv
   - name: Blog
-    url: https://modem7.com
+    url: https://omegawiki.modem7.com
+    asignee: modem7
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
