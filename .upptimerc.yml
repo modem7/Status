@@ -11,34 +11,29 @@ sites:
     asignee: modem7
     expectedStatusCodes:
       - 403
-      - 404
   - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
     expectedStatusCodes:
       - 403
-      - 404
   - name: Overseer
     url: $OVERSEER_URL
     icon: https://github.com/sct/overseerr/blob/develop/public/favicon-32x32.png
     asignee: modem7
     expectedStatusCodes:
       - 403
-      - 404
   - name: Ombi
     url: $OMBI_URL
     icon: https://github.com/Ombi-app/Ombi/blob/develop/src/Ombi/wwwroot/images/favicon/favicon-32x32.png
     asignee: modem7
     expectedStatusCodes:
       - 403
-      - 404
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://github.com/grafana/grafana/blob/main/public/img/fav32.png
     asignee: modem7
     expectedStatusCodes:
       - 403
-      - 404
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
