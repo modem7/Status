@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name: Plex
     url: https://plex.tv
+  - name: Blog
+    url: https://modem7.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
