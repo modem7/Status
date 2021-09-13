@@ -48,6 +48,18 @@ sites:
     url: $HASTEBIN_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png
     asignee: modem7
+  - name: Portainer
+    url: $PORTAINER_URL
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/portainer.png
+    asignee: modem7
+  - name: Scrutiny
+    url: $SCRUTINY_URL
+    icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg
+    asignee: modem7
+  - name: Mealie
+    url: https://mealie.modem7.com
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/mealie.png
+    asignee: modem7
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
