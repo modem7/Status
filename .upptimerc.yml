@@ -8,6 +8,9 @@ sites:
   - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
+  - name: Blog
+    url: https://modem7.wordpress.com/
+    asignee: modem7
   - name: Plex
     url: $PLEX_URL
     icon: https://favicons.githubusercontent.com/plex.tv
