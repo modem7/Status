@@ -28,6 +28,14 @@ sites:
     url: $GRAFANA_URL
     icon: https://favicons.githubusercontent.com/grafana.com
     asignee: modem7
+  - name: Dashboard
+    url: https://alexlane.modem7.com
+    icon: https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico
+    asignee: modem7
+  - name: DroneCI
+    url: https://drone.modem7.com
+    icon: https://raw.githubusercontent.com/drone/brand/blob/master/logos/png/white/drone-logo-png-white-64.png
+    asignee: modem7
   - name: Hastebin
     url: $HASTEBIN_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png
