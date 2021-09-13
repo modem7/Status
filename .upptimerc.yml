@@ -36,6 +36,10 @@ sites:
     url: https://alexlane.modem7.com
     icon: https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico
     asignee: modem7
+  - name: Bitwarden
+    url: $BITWARDEN_URL
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png
+    asignee: modem7
   - name: DroneCI
     url: https://drone.modem7.com
     icon: https://raw.githubusercontent.com/modem7/status/master/static/dronefav.ico
