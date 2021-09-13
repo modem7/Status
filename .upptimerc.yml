@@ -10,6 +10,7 @@ sites:
     asignee: modem7
   - name: Blog
     url: https://modem7.wordpress.com/
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/wp-icon.png
     asignee: modem7
   - name: Plex
     url: $PLEX_URL
