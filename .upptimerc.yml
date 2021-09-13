@@ -37,7 +37,7 @@ sites:
     asignee: modem7
   - name: DroneCI
     url: https://drone.modem7.com
-    icon: https://raw.githubusercontent.com/drone/brand/blob/master/logos/png/white/drone-logo-png-white-64.png
+    icon: https://raw.githubusercontent.com/modem7/status/master/static/dronefav.ico
     asignee: modem7
   - name: Hastebin
     url: $HASTEBIN_URL
