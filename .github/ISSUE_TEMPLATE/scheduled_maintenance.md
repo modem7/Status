@@ -7,5 +7,5 @@ assignees: 'modem7'
 
 ---
 
-<!-- Copy and paste variables from [Uppime ISO8061 MaintWindow script](https://rextester.com/WXSMSA7692) -->
+<!-- Copy and paste variables from https://rextester.com/WXSMSA7692 -->
 
