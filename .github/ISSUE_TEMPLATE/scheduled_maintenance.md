@@ -1,6 +1,6 @@
 ---
 name: Scheduled Maintenance
-about: Create scheduled maintenance issue
+about: Create scheduled maintenance schedule
 title: "\U0001F6A7 Scheduled Maintenance for [Services] \U0001F6A7"
 labels: maintenance
 assignees: modem7
