@@ -22,18 +22,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://favicons.githubusercontent.com/omegawiki.modem7.com",
     "slug": "wiki",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 937,
-    "timeWeek": 634,
-    "timeMonth": 634,
-    "timeYear": 634,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 632,
+    "timeDay": 760,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "Blog",
@@ -59,19 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "92.02%",
+    "uptime": "93.54%",
     "uptimeDay": "73.64%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "92.02%",
-    "uptimeYear": "92.02%",
+    "uptimeWeek": "93.54%",
+    "uptimeMonth": "93.54%",
+    "uptimeYear": "93.54%",
     "time": 460,
     "timeDay": 622,
     "timeWeek": 460,
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2021-09-16": 380,
-      "2021-09-15": 30
+      "2021-09-16": 380
     }
   },
   {
@@ -79,20 +80,19 @@
     "url": "$TAUTULLI_URL",
     "icon": "https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico",
     "slug": "tautulli",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.84%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "98.84%",
-    "time": 509,
-    "timeDay": 484,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 508,
+    "timeDay": 485,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2021-09-16": 28,
-      "2021-09-15": 30
+      "2021-09-16": 0
     }
   },
   {
@@ -100,20 +100,19 @@
     "url": "$OVERSEER_URL",
     "icon": "https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico",
     "slug": "overseer",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
-    "time": 407,
-    "timeDay": 491,
-    "timeWeek": 407,
-    "timeMonth": 407,
-    "timeYear": 407,
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 408,
+    "timeDay": 484,
+    "timeWeek": 408,
+    "timeMonth": 408,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2021-09-16": 28,
-      "2021-09-15": 30
+      "2021-09-16": 0
     }
   },
   {
@@ -121,20 +120,19 @@
     "url": "$OMBI_URL",
     "icon": "https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico",
     "slug": "ombi",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "98.86%",
-    "uptimeYear": "98.86%",
-    "time": 445,
-    "timeDay": 499,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 447,
+    "timeDay": 503,
+    "timeWeek": 447,
+    "timeMonth": 447,
+    "timeYear": 447,
     "dailyMinutesDown": {
-      "2021-09-16": 28,
-      "2021-09-15": 30
+      "2021-09-16": 0
     }
   },
   {
@@ -142,54 +140,60 @@
     "url": "$GRAFANA_URL",
     "icon": "https://favicons.githubusercontent.com/grafana.com",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 514,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
-    "dailyMinutesDown": {}
+    "time": 378,
+    "timeDay": 500,
+    "timeWeek": 378,
+    "timeMonth": 378,
+    "timeYear": 378,
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "Heimdall",
     "url": "https://alexlane.modem7.com",
     "icon": "https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico",
     "slug": "heimdall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 920,
-    "timeWeek": 888,
-    "timeMonth": 888,
-    "timeYear": 888,
-    "dailyMinutesDown": {}
+    "time": 838,
+    "timeDay": 731,
+    "timeWeek": 838,
+    "timeMonth": 838,
+    "timeYear": 838,
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "Bitwarden",
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 505,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
-    "dailyMinutesDown": {}
+    "time": 502,
+    "timeDay": 482,
+    "timeWeek": 502,
+    "timeMonth": 502,
+    "timeYear": 502,
+    "dailyMinutesDown": {
+      "2021-09-16": 0
+    }
   },
   {
     "name": "DroneCI",
@@ -269,19 +273,16 @@
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/mealie.png",
     "slug": "mealie",
     "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "98.07%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "98.63%",
-    "uptimeYear": "98.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 600,
     "timeDay": 580,
     "timeWeek": 600,
     "timeMonth": 600,
     "timeYear": 600,
-    "dailyMinutesDown": {
-      "2021-09-16": 28,
-      "2021-09-15": 30
-    }
+    "dailyMinutesDown": {}
   }
 ]
