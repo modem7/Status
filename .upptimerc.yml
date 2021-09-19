@@ -33,6 +33,9 @@ sites:
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://favicons.githubusercontent.com/grafana.com
+  - name: Netdata
+    url: $NETDATA_URL
+    #icon: https://favicons.githubusercontent.com/grafana.com
     asignee: modem7
   - name: Heimdall
     url: https://alexlane.modem7.com
