@@ -88,6 +88,10 @@ sites:
     url: $HASTEBIN_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png
     asignee: modem7
+  - name: XBackbone
+    url: $XBACKBONE_URL
+    icon: https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico
+    asignee: modem7
 ###################
 # - SYSTEM RELATED#
 ###################
@@ -99,6 +103,10 @@ sites:
     url: https://scrutiny.modem7.com/
     icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg
     asignee: modem7
+  - name: Dozzle
+    url: $DOZZLE_URL
+    icon: https://raw.githubusercontent.com/amir20/dozzle/0b09d6c785a87eadca6107699282d3de342f7246/assets/favicon.svg
+    asignee: modem7	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
