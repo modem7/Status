@@ -5,6 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
+  - name: BorgBase
+    url: https://www.borgbase.com/
   - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
