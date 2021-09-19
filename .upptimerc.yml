@@ -3,10 +3,12 @@ owner: modem7 # Your GitHub organization or username, where this repository live
 repo: status # The name of this repository
 
 sites:
+# - GENERAL WEBSITES
   - name: Google
     url: https://www.google.com
   - name: BorgBase
     url: https://www.borgbase.com/
+# - BLOGS AND WIKIS
   - name: Wiki
     url: https://omegawiki.modem7.com
     asignee: modem7
@@ -14,6 +16,7 @@ sites:
     url: https://modem7.wordpress.com/
     icon: https://raw.githubusercontent.com/modem7/status/master/static/wp-icon.png
     asignee: modem7
+# - PLEX RELATED
   - name: Plex
     url: $PLEX_URL
     icon: https://favicons.githubusercontent.com/plex.tv
@@ -30,6 +33,23 @@ sites:
     url: https://ombi.modem7.com
     icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
     asignee: modem7
+  - name: Sonarr
+    url: $SONARR_URL
+    #icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
+    asignee: modem7
+  - name: Radarr
+    url: $RADARR_URL
+    #icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
+    asignee: modem7
+  - name: Bazarr
+    url: $BAZARR_URL
+    #icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
+    asignee: modem7
+  - name: NZBHydra2
+    url: $HYDRA_URL
+    #icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
+    asignee: modem7
+# - DASHBOARDS
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://favicons.githubusercontent.com/grafana.com
@@ -41,18 +61,22 @@ sites:
     url: https://alexlane.modem7.com
     icon: https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico
     asignee: modem7
+# - SECURITY
   - name: Bitwarden
     url: $BITWARDEN_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png
     asignee: modem7
+# - CI/CD
   - name: DroneCI
     url: https://drone.modem7.com
     icon: https://raw.githubusercontent.com/modem7/status/master/static/dronefav.ico
     asignee: modem7
+# - PASTEBINS
   - name: Hastebin
     url: $HASTEBIN_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png
     asignee: modem7
+# - SYSTEM RELATED
   - name: Portainer
     url: $PORTAINER_URL
     icon: https://raw.githubusercontent.com/modem7/status/master/static/portainer.png
