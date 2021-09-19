@@ -53,7 +53,7 @@ sites:
     icon: https://raw.githubusercontent.com/modem7/status/master/static/portainer.png
     asignee: modem7
   - name: Scrutiny
-    url: $SCRUTINY_URL
+    url: https://scrutiny.modem7.com/
     icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg
     asignee: modem7
 
