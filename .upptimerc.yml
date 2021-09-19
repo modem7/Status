@@ -17,15 +17,15 @@ sites:
     icon: https://favicons.githubusercontent.com/plex.tv
     asignee: modem7
   - name: Tautulli
-    url: $TAUTULLI_URL
+    url: https://tautulli.modem7.com
     icon: https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico
     asignee: modem7
   - name: Overseer
-    url: $OVERSEER_URL
+    url: https://overseer.modem7.com
     icon: https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico
     asignee: modem7
   - name: Ombi
-    url: $OMBI_URL
+    url: https://ombi.modem7.com
     icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
     asignee: modem7
   - name: Grafana
