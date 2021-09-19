@@ -17,7 +17,7 @@ sites:
     icon: https://favicons.githubusercontent.com/plex.tv
     asignee: modem7
   - name: Tautulli
-    url: https://tautulli.modem7.com
+    url: https://tautulli.modem7.com/tautulli
     icon: https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico
     asignee: modem7
   - name: Overseer
