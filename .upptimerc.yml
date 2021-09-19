@@ -35,7 +35,7 @@ sites:
     icon: https://favicons.githubusercontent.com/grafana.com
   - name: Netdata
     url: $NETDATA_URL
-    #icon: https://favicons.githubusercontent.com/grafana.com
+    icon: https://raw.githubusercontent.com/netdata/netdata/master/web/gui/static/img/netdata-logomark.svg
     asignee: modem7
   - name: Heimdall
     url: https://alexlane.modem7.com
