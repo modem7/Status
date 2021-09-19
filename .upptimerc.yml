@@ -92,9 +92,9 @@ sites:
     url: $XBACKBONE_URL
     icon: https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico
     asignee: modem7
-###################
-# - SYSTEM RELATED#
-###################
+####################
+# - SYSTEM SERVICES#
+####################
   - name: Pihole
     url: $PIHOLE_URL
     icon: https://raw.githubusercontent.com/pi-hole/docs/master/docs/images/favicon.ico
