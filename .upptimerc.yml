@@ -98,6 +98,8 @@ sites:
   - name: Pihole
     url: $PIHOLE_URL
     icon: https://raw.githubusercontent.com/pi-hole/docs/master/docs/images/favicon.ico
+  - name: 3CX
+    url: $PBX_URL
     asignee: modem7
   - name: Portainer
     url: $PORTAINER_URL
