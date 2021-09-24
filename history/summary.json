@@ -77,11 +77,11 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "97.72%",
+    "uptime": "97.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.72%",
-    "uptimeYear": "97.72%",
+    "uptimeMonth": "97.73%",
+    "uptimeYear": "97.73%",
     "time": 512,
     "timeDay": 613,
     "timeWeek": 682,
@@ -222,18 +222,20 @@
     "url": "$GRAFANA_URL",
     "icon": "https://favicons.githubusercontent.com/grafana.com",
     "slug": "grafana",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 433,
     "timeDay": 487,
     "timeWeek": 499,
     "timeMonth": 433,
     "timeYear": 433,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-24": 1
+    }
   },
   {
     "name": "Netdata",
@@ -330,18 +332,20 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico",
     "slug": "x-backbone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 996,
     "timeDay": 887,
     "timeWeek": 996,
     "timeMonth": 996,
     "timeYear": 996,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-24": 1
+    }
   },
   {
     "name": "Pihole",
@@ -367,19 +371,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico",
     "slug": "3-cx",
     "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.02%",
-    "uptimeMonth": "99.02%",
-    "uptimeYear": "99.02%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 599,
     "timeWeek": 603,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {
-      "2021-09-24": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
