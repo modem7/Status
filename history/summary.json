@@ -222,19 +222,19 @@
     "url": "$GRAFANA_URL",
     "icon": "https://favicons.githubusercontent.com/grafana.com",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 433,
-    "timeDay": 487,
-    "timeWeek": 499,
-    "timeMonth": 433,
-    "timeYear": 433,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 434,
+    "timeDay": 472,
+    "timeWeek": 497,
+    "timeMonth": 434,
+    "timeYear": 434,
     "dailyMinutesDown": {
-      "2021-09-24": 1
+      "2021-09-24": 9
     }
   },
   {
@@ -332,19 +332,19 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico",
     "slug": "x-backbone",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 996,
-    "timeDay": 887,
-    "timeWeek": 996,
-    "timeMonth": 996,
-    "timeYear": 996,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 983,
+    "timeDay": 870,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2021-09-24": 1
+      "2021-09-24": 9
     }
   },
   {
