@@ -1,7 +1,7 @@
 url: $HASTEBIN_URL
-status: up
-code: 200
-responseTime: 573
-lastUpdated: 2021-09-25T23:16:27.715Z
+status: down
+code: 404
+responseTime: 705
+lastUpdated: 2021-09-26T19:17:00.463Z
 startTime: Sun Sep 12 2021 22:57:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
