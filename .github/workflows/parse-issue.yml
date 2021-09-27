@@ -1,0 +1,16 @@
+name: Parse issue
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  parseIssue:
+    runs-on: ubuntu-latest
+    steps:
+- uses: stefanbuck/github-issue-parser@v2
+  id: issue-parser
+  with:
+    template-path: .github/ISSUE_TEMPLATE/parsertest.yml
+
+- run: echo ${{ toJSON(steps.issue-parser.outputs.jsonString) }} > bug-details.json
