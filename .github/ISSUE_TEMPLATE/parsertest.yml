@@ -1,7 +1,0 @@
-name: Single textarea input
-description: Just testing
-body:
-  - type: textarea
-    id: textarea
-    attributes:
-      label: My textarea input
