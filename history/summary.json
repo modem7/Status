@@ -150,19 +150,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/Sonarr.svg",
     "slug": "sonarr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1015,
-    "timeDay": 1062,
-    "timeWeek": 1088,
+    "timeDay": 1051,
+    "timeWeek": 1081,
     "timeMonth": 1015,
     "timeYear": 1015,
     "dailyMinutesDown": {
-      "2021-10-06": 0
+      "2021-10-06": 13
     }
   },
   {
