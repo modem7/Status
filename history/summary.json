@@ -366,9 +366,9 @@
     "url": "$PBX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico",
     "slug": "3-cx",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -377,7 +377,9 @@
     "timeWeek": 565,
     "timeMonth": 564,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   },
   {
     "name": "Portainer",
