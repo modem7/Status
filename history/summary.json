@@ -13,7 +13,7 @@
     "time": 213,
     "timeDay": 84,
     "timeWeek": 156,
-    "timeMonth": 200,
+    "timeMonth": 199,
     "timeYear": 213,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 846,
     "timeDay": 1080,
     "timeWeek": 1315,
-    "timeMonth": 886,
+    "timeMonth": 897,
     "timeYear": 846,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 583,
     "timeDay": 711,
     "timeWeek": 894,
-    "timeMonth": 677,
+    "timeMonth": 684,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2021-09-16": 380
@@ -123,7 +123,7 @@
     "time": 701,
     "timeDay": 1069,
     "timeWeek": 1338,
-    "timeMonth": 716,
+    "timeMonth": 723,
     "timeYear": 701,
     "dailyMinutesDown": {}
   },
@@ -231,7 +231,7 @@
     "time": 444,
     "timeDay": 525,
     "timeWeek": 564,
-    "timeMonth": 453,
+    "timeMonth": 457,
     "timeYear": 444,
     "dailyMinutesDown": {}
   },
@@ -367,18 +367,18 @@
     "icon": "https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico",
     "slug": "3-cx",
     "status": "down",
-    "uptime": "99.38%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "98.27%",
-    "uptimeMonth": "99.38%",
-    "uptimeYear": "99.38%",
+    "uptime": "99.34%",
+    "uptimeDay": "92.59%",
+    "uptimeWeek": "98.18%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 564,
     "timeDay": 622,
     "timeWeek": 567,
     "timeMonth": 564,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2021-10-12": 97,
+      "2021-10-12": 107,
       "2021-10-10": 77
     }
   },
@@ -387,19 +387,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/portainer.png",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 9489,
-    "timeWeek": 2914,
-    "timeMonth": 885,
-    "timeYear": 885,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 877,
+    "timeDay": 6479,
+    "timeWeek": 2641,
+    "timeMonth": 877,
+    "timeYear": 877,
     "dailyMinutesDown": {
-      "2021-10-12": 1
+      "2021-10-12": 10
     }
   },
   {
@@ -407,19 +407,19 @@
     "url": "https://scrutiny.modem7.com/",
     "icon": "https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg",
     "slug": "scrutiny",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 1038,
-    "timeWeek": 1081,
-    "timeMonth": 938,
-    "timeYear": 938,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 937,
+    "timeDay": 982,
+    "timeWeek": 1058,
+    "timeMonth": 937,
+    "timeYear": 937,
     "dailyMinutesDown": {
-      "2021-10-12": 0
+      "2021-10-12": 10
     }
   },
   {
@@ -427,19 +427,19 @@
     "url": "$DOZZLE_URL",
     "icon": "https://raw.githubusercontent.com/amir20/dozzle/0b09d6c785a87eadca6107699282d3de342f7246/assets/favicon.svg",
     "slug": "dozzle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 978,
-    "timeDay": 971,
-    "timeWeek": 1199,
-    "timeMonth": 978,
-    "timeYear": 978,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 972,
+    "timeDay": 901,
+    "timeWeek": 1150,
+    "timeMonth": 972,
+    "timeYear": 972,
     "dailyMinutesDown": {
-      "2021-10-12": 0
+      "2021-10-12": 10
     }
   }
 ]
