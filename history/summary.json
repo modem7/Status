@@ -13,7 +13,7 @@
     "time": 214,
     "timeDay": 348,
     "timeWeek": 170,
-    "timeMonth": 191,
+    "timeMonth": 197,
     "timeYear": 214,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 847,
     "timeDay": 903,
     "timeWeek": 1293,
-    "timeMonth": 964,
+    "timeMonth": 967,
     "timeYear": 847,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 284,
     "timeDay": 365,
     "timeWeek": 333,
-    "timeMonth": 304,
+    "timeMonth": 307,
     "timeYear": 284,
     "dailyMinutesDown": {}
   },
@@ -77,15 +77,15 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.13%",
+    "uptime": "99.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptimeYear": "99.14%",
     "time": 583,
     "timeDay": 613,
     "timeWeek": 872,
-    "timeMonth": 735,
+    "timeMonth": 748,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2021-09-16": 380
@@ -105,7 +105,7 @@
     "time": 756,
     "timeDay": 804,
     "timeWeek": 1207,
-    "timeMonth": 779,
+    "timeMonth": 816,
     "timeYear": 756,
     "dailyMinutesDown": {}
   },
@@ -123,7 +123,7 @@
     "time": 703,
     "timeDay": 871,
     "timeWeek": 1298,
-    "timeMonth": 801,
+    "timeMonth": 844,
     "timeYear": 703,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 537,
     "timeDay": 636,
     "timeWeek": 879,
-    "timeMonth": 573,
+    "timeMonth": 583,
     "timeYear": 537,
     "dailyMinutesDown": {}
   },
@@ -158,7 +158,7 @@
     "uptimeYear": "100.00%",
     "time": 1132,
     "timeDay": 1094,
-    "timeWeek": 1496,
+    "timeWeek": 1698,
     "timeMonth": 1132,
     "timeYear": 1132,
     "dailyMinutesDown": {}
@@ -267,7 +267,7 @@
     "time": 846,
     "timeDay": 825,
     "timeWeek": 943,
-    "timeMonth": 846,
+    "timeMonth": 845,
     "timeYear": 846,
     "dailyMinutesDown": {}
   },
@@ -285,7 +285,7 @@
     "time": 503,
     "timeDay": 443,
     "timeWeek": 544,
-    "timeMonth": 503,
+    "timeMonth": 502,
     "timeYear": 503,
     "dailyMinutesDown": {}
   },
@@ -303,7 +303,7 @@
     "time": 774,
     "timeDay": 760,
     "timeWeek": 855,
-    "timeMonth": 774,
+    "timeMonth": 773,
     "timeYear": 774,
     "dailyMinutesDown": {}
   },
@@ -321,7 +321,7 @@
     "time": 613,
     "timeDay": 593,
     "timeWeek": 690,
-    "timeMonth": 612,
+    "timeMonth": 622,
     "timeYear": 613,
     "dailyMinutesDown": {}
   },
@@ -366,19 +366,19 @@
     "url": "$PBX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico",
     "slug": "3-cx",
-    "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "74.86%",
-    "uptimeWeek": "95.64%",
-    "uptimeMonth": "98.44%",
-    "uptimeYear": "98.44%",
-    "time": 564,
-    "timeDay": 0,
-    "timeWeek": 561,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "96.08%",
+    "uptimeDay": "26.66%",
+    "uptimeWeek": "88.76%",
+    "uptimeMonth": "96.08%",
+    "uptimeYear": "96.08%",
+    "time": 562,
+    "timeDay": 521,
+    "timeWeek": 556,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2021-10-13": 62,
+      "2021-10-13": 756,
       "2021-10-12": 300,
       "2021-10-10": 77
     }
@@ -397,7 +397,7 @@
     "time": 869,
     "timeDay": 6404,
     "timeWeek": 2600,
-    "timeMonth": 869,
+    "timeMonth": 877,
     "timeYear": 869,
     "dailyMinutesDown": {}
   },
@@ -415,7 +415,7 @@
     "time": 936,
     "timeDay": 920,
     "timeWeek": 1016,
-    "timeMonth": 936,
+    "timeMonth": 937,
     "timeYear": 936,
     "dailyMinutesDown": {}
   },
