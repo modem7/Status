@@ -150,18 +150,20 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/Sonarr.svg",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1138,
-    "timeDay": 977,
-    "timeWeek": 1140,
-    "timeMonth": 1131,
-    "timeYear": 1138,
-    "dailyMinutesDown": {}
+    "time": 1126,
+    "timeDay": 849,
+    "timeWeek": 1073,
+    "timeMonth": 1116,
+    "timeYear": 1126,
+    "dailyMinutesDown": {
+      "2021-10-24": 0
+    }
   },
   {
     "name": "Radarr",
@@ -187,18 +189,18 @@
     "icon": "https://raw.githubusercontent.com/morpheus65535/bazarr/master/frontend/public/static/favicon.ico",
     "slug": "bazarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 803,
     "timeDay": 684,
     "timeWeek": 777,
     "timeMonth": 806,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2021-10-24": 0
+      "2021-10-24": 50
     }
   },
   {
@@ -369,11 +371,11 @@
     "icon": "https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico",
     "slug": "3-cx",
     "status": "up",
-    "uptime": "94.81%",
-    "uptimeDay": "32.52%",
+    "uptime": "94.82%",
+    "uptimeDay": "35.95%",
     "uptimeWeek": "87.60%",
     "uptimeMonth": "94.74%",
-    "uptimeYear": "94.81%",
+    "uptimeYear": "94.82%",
     "time": 564,
     "timeDay": 497,
     "timeWeek": 574,
