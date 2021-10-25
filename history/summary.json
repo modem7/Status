@@ -76,19 +76,19 @@
     "url": "$PLEX_URL",
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.39%",
-    "time": 644,
-    "timeDay": 4174,
-    "timeWeek": 1377,
-    "timeMonth": 947,
-    "timeYear": 644,
+    "status": "up",
+    "uptime": "99.37%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.37%",
+    "time": 649,
+    "timeDay": 3219,
+    "timeWeek": 1371,
+    "timeMonth": 955,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2021-10-25": 1,
+      "2021-10-25": 11,
       "2021-09-16": 380
     }
   },
@@ -263,9 +263,9 @@
     "url": "https://alexlane.modem7.com",
     "icon": "https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico",
     "slug": "heimdall",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -274,7 +274,9 @@
     "timeWeek": 876,
     "timeMonth": 843,
     "timeYear": 863,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-25": 0
+    }
   },
   {
     "name": "Bitwarden",
