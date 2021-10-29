@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://favicons.githubusercontent.com/omegawiki.modem7.com",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 955,
-    "timeDay": 884,
-    "timeWeek": 917,
-    "timeMonth": 1209,
-    "timeYear": 955,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 956,
+    "timeDay": 945,
+    "timeWeek": 929,
+    "timeMonth": 1206,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2021-10-29": 0
+      "2021-10-29": 14
     }
   },
   {
