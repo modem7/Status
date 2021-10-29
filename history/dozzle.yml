@@ -1,7 +1,7 @@
 url: $DOZZLE_URL
-status: down
-code: 404
-responseTime: 462
-lastUpdated: 2021-10-29T19:21:14.597Z
+status: up
+code: 200
+responseTime: 1036
+lastUpdated: 2021-10-29T19:23:49.662Z
 startTime: Sun Sep 19 2021 02:18:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
