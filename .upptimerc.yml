@@ -64,7 +64,7 @@ sites:
     icon: https://raw.githubusercontent.com/netdata/netdata/master/web/gui/static/img/netdata-logomark.svg
     asignee: modem7
   - name: Heimdall
-    url: https://alexlane.modem7.com
+    url: $HEIMDALL_URL
     icon: https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico
     asignee: modem7
 #############
