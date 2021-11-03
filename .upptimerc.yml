@@ -114,6 +114,9 @@ sites:
     url: $DOZZLE_URL
     icon: https://raw.githubusercontent.com/amir20/dozzle/0b09d6c785a87eadca6107699282d3de342f7246/assets/favicon.svg
     asignee: modem7	
+  - name: Snapdrop
+    url: $SNAPDROP_URL
+    asignee: modem7	
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
