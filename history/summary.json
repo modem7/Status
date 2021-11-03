@@ -444,18 +444,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "snapdrop",
     "status": "down",
-    "uptime": "4.37%",
-    "uptimeDay": "4.37%",
-    "uptimeWeek": "4.37%",
-    "uptimeMonth": "4.37%",
-    "uptimeYear": "4.37%",
+    "uptime": "1.28%",
+    "uptimeDay": "1.28%",
+    "uptimeWeek": "1.28%",
+    "uptimeMonth": "1.28%",
+    "uptimeYear": "1.28%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-11-03": 0
+      "2021-11-03": 1
     }
   }
 ]
