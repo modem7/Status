@@ -348,18 +348,20 @@
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/pi-hole/docs/master/docs/images/favicon.ico",
     "slug": "pihole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 577,
-    "timeWeek": 649,
-    "timeMonth": 695,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "time": 661,
+    "timeDay": 529,
+    "timeWeek": 639,
+    "timeMonth": 691,
+    "timeYear": 661,
+    "dailyMinutesDown": {
+      "2021-11-07": 0
+    }
   },
   {
     "name": "3CX",
