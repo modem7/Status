@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/omegawiki.modem7.com",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.29%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1180,
     "timeDay": 2036,
     "timeWeek": 1176,
     "timeMonth": 1698,
     "timeYear": 1180,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -79,18 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.53%",
+    "uptime": "99.54%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.54%",
     "time": 647,
     "timeDay": 609,
     "timeWeek": 634,
     "timeMonth": 820,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-11-09": 10,
       "2021-09-16": 380
     }
   },
@@ -100,19 +97,17 @@
     "icon": "https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 794,
     "timeDay": 920,
     "timeWeek": 851,
     "timeMonth": 861,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overseer",
@@ -120,19 +115,17 @@
     "icon": "https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico",
     "slug": "overseer",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 786,
     "timeDay": 947,
     "timeWeek": 934,
     "timeMonth": 956,
     "timeYear": 786,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ombi",
@@ -140,19 +133,17 @@
     "icon": "https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico",
     "slug": "ombi",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 559,
     "timeDay": 752,
     "timeWeek": 619,
     "timeMonth": 607,
     "timeYear": 559,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -160,19 +151,17 @@
     "icon": "https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/Sonarr.svg",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1156,
     "timeDay": 1112,
     "timeWeek": 1071,
     "timeMonth": 1183,
     "timeYear": 1156,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -180,19 +169,17 @@
     "icon": "https://raw.githubusercontent.com/Radarr/Radarr/develop/Logo/Radarr.svg",
     "slug": "radarr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 809,
     "timeDay": 919,
     "timeWeek": 826,
     "timeMonth": 819,
     "timeYear": 809,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bazarr",
@@ -200,19 +187,17 @@
     "icon": "https://raw.githubusercontent.com/morpheus65535/bazarr/master/frontend/public/static/favicon.ico",
     "slug": "bazarr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 851,
     "timeDay": 886,
     "timeWeek": 788,
     "timeMonth": 888,
     "timeYear": 851,
-    "dailyMinutesDown": {
-      "2021-11-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NZBHydra2",
@@ -220,19 +205,17 @@
     "icon": "https://raw.githubusercontent.com/theotherp/nzbhydra2/master/misc/images/favicons/favicon32.png",
     "slug": "nzb-hydra2",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 804,
     "timeDay": 878,
     "timeWeek": 788,
     "timeMonth": 810,
     "timeYear": 804,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -240,19 +223,17 @@
     "icon": "https://favicons.githubusercontent.com/grafana.com",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 485,
     "timeDay": 703,
     "timeWeek": 569,
     "timeMonth": 556,
     "timeYear": 485,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata",
@@ -260,19 +241,17 @@
     "icon": "https://raw.githubusercontent.com/netdata/netdata/master/web/gui/static/img/netdata-logomark.svg",
     "slug": "netdata",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 718,
     "timeDay": 814,
     "timeWeek": 669,
     "timeMonth": 747,
     "timeYear": 718,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Heimdall",
@@ -280,19 +259,17 @@
     "icon": "https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico",
     "slug": "heimdall",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 870,
     "timeDay": 851,
     "timeWeek": 781,
     "timeMonth": 902,
     "timeYear": 870,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwarden",
@@ -300,19 +277,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 515,
     "timeDay": 747,
     "timeWeek": 542,
     "timeMonth": 530,
     "timeYear": 515,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DroneCI",
@@ -320,19 +295,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/dronefav.ico",
     "slug": "drone-ci",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 802,
     "timeDay": 952,
     "timeWeek": 806,
     "timeMonth": 843,
     "timeYear": 802,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hastebin",
@@ -340,19 +313,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 630,
     "timeDay": 854,
     "timeWeek": 688,
     "timeMonth": 658,
     "timeYear": 630,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XBackbone",
@@ -360,38 +331,36 @@
     "icon": "https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico",
     "slug": "x-backbone",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 948,
     "timeDay": 1050,
     "timeWeek": 935,
     "timeMonth": 947,
     "timeYear": 948,
-    "dailyMinutesDown": {
-      "2021-11-09": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pihole",
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/pi-hole/docs/master/docs/images/favicon.ico",
     "slug": "pihole",
-    "status": "down",
-    "uptime": "96.40%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "73.63%",
-    "uptimeMonth": "93.93%",
-    "uptimeYear": "96.40%",
-    "time": 656,
-    "timeDay": 466,
+    "status": "up",
+    "uptime": "96.30%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "72.82%",
+    "uptimeMonth": "93.75%",
+    "uptimeYear": "96.30%",
+    "time": 655,
+    "timeDay": 533,
     "timeWeek": 599,
-    "timeMonth": 676,
-    "timeYear": 656,
+    "timeMonth": 674,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2021-11-09": 597,
+      "2021-11-09": 679,
       "2021-11-08": 1440,
       "2021-11-07": 621
     }
@@ -424,19 +393,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/portainer.png",
     "slug": "portainer",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 745,
     "timeDay": 1228,
     "timeWeek": 703,
     "timeMonth": 960,
     "timeYear": 745,
-    "dailyMinutesDown": {
-      "2021-11-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Scrutiny",
@@ -444,19 +411,17 @@
     "icon": "https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg",
     "slug": "scrutiny",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 967,
     "timeDay": 915,
     "timeWeek": 939,
     "timeMonth": 1005,
     "timeYear": 967,
-    "dailyMinutesDown": {
-      "2021-11-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dozzle",
@@ -464,19 +429,17 @@
     "icon": "https://raw.githubusercontent.com/amir20/dozzle/0b09d6c785a87eadca6107699282d3de342f7246/assets/favicon.svg",
     "slug": "dozzle",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 977,
     "timeDay": 763,
     "timeWeek": 918,
     "timeMonth": 987,
     "timeYear": 977,
-    "dailyMinutesDown": {
-      "2021-11-09": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Snapdrop",
@@ -484,18 +447,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "snapdrop",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 506,
     "timeDay": 435,
     "timeWeek": 506,
     "timeMonth": 506,
     "timeYear": 506,
-    "dailyMinutesDown": {
-      "2021-11-09": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
