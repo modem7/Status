@@ -1,7 +1,7 @@
 url: $HEIMDALL_URL
-status: up
-code: 200
-responseTime: 764
-lastUpdated: 2021-11-08T23:17:46.901Z
+status: down
+code: 523
+responseTime: 913
+lastUpdated: 2021-11-09T09:47:07.201Z
 startTime: Mon Sep 13 2021 11:09:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
