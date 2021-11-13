@@ -58,19 +58,19 @@
     "url": "https://modem7.wordpress.com/",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/wp-icon.png",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 300,
-    "timeDay": 173,
-    "timeWeek": 314,
-    "timeMonth": 328,
+    "timeDay": 202,
+    "timeWeek": 308,
+    "timeMonth": 326,
     "timeYear": 300,
     "dailyMinutesDown": {
-      "2021-11-13": 0
+      "2021-11-13": 14
     }
   },
   {
