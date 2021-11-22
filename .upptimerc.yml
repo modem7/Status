@@ -8,115 +8,123 @@ sites:
 #####################
   - name: Google
     url: https://www.google.com
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/google.png
   - name: BorgBase
     url: https://www.borgbase.com/
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/borgbase.png
 # - BLOGS AND WIKIS
   - name: Wiki
     url: https://omegawiki.modem7.com
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png
     asignee: modem7
   - name: Blog
     url: https://modem7.wordpress.com/
-    icon: https://raw.githubusercontent.com/modem7/status/master/static/wp-icon.png
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/wordpress.png
     asignee: modem7
 #################
 # - PLEX RELATED#
 #################
   - name: Plex
     url: $PLEX_URL
-    icon: https://favicons.githubusercontent.com/plex.tv
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png
     asignee: modem7
   - name: Tautulli
     url: https://tautulli.modem7.com/tautulli
-    icon: https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/tautulli.png
     asignee: modem7
   - name: Overseer
     url: https://overseer.modem7.com
-    icon: https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png
     asignee: modem7
   - name: Ombi
     url: https://ombi.modem7.com
-    icon: https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/ombi.png
     asignee: modem7
   - name: Sonarr
     url: $SONARR_URL
-    icon: https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/Sonarr.svg
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png
     asignee: modem7
   - name: Radarr
     url: $RADARR_URL
-    icon: https://raw.githubusercontent.com/Radarr/Radarr/develop/Logo/Radarr.svg
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png
     asignee: modem7
   - name: Bazarr
     url: $BAZARR_URL
-    icon: https://raw.githubusercontent.com/morpheus65535/bazarr/master/frontend/public/static/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bazarr.png
     asignee: modem7
   - name: NZBHydra2
     url: $HYDRA_URL
-    icon: https://raw.githubusercontent.com/theotherp/nzbhydra2/master/misc/images/favicons/favicon32.png
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png
     asignee: modem7
 ###############
 # - DASHBOARDS#
 ###############
   - name: Grafana
     url: $GRAFANA_URL
-    icon: https://favicons.githubusercontent.com/grafana.com
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png
   - name: Netdata
     url: $NETDATA_URL
-    icon: https://raw.githubusercontent.com/netdata/netdata/master/web/gui/static/img/netdata-logomark.svg
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/netdata.png
     asignee: modem7
   - name: Heimdall
     url: $HEIMDALL_URL
-    icon: https://raw.githubusercontent.com/linuxserver/Heimdall/master/public/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/heimdall-icon-small.png
+    asignee: modem7
+  - name: Flame
+    url: $FLAME_URL
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png
     asignee: modem7
 #############
 # - SECURITY#
 #############
   - name: Bitwarden
     url: $BITWARDEN_URL
-    icon: https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png
     asignee: modem7
 ##########
 # - CI/CD#
 ##########
   - name: DroneCI
     url: https://drone.modem7.com
-    icon: https://raw.githubusercontent.com/modem7/status/master/static/dronefav.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/droneci.png
     asignee: modem7
 ##############
 # - PASTEBINS#
 ##############
   - name: Hastebin
     url: $HASTEBIN_URL
-    icon: https://raw.githubusercontent.com/modem7/status/master/static/hastebin.png
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png
     asignee: modem7
   - name: XBackbone
     url: $XBACKBONE_URL
-    icon: https://raw.githubusercontent.com/SergiX44/XBackBone/master/src/images/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png
     asignee: modem7
 ####################
 # - SYSTEM SERVICES#
 ####################
   - name: Pihole
     url: $PIHOLE_URL
-    icon: https://raw.githubusercontent.com/pi-hole/docs/master/docs/images/favicon.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png
   - name: 3CX
     url: $PBX_URL
-    icon: https://raw.githubusercontent.com/modem7/Status/master/static/3CX.ico
+    icon: https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png
     asignee: modem7
   - name: Portainer
     url: $PORTAINER_URL
-    icon: https://raw.githubusercontent.com/modem7/status/master/static/portainer.png
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png
     asignee: modem7
   - name: Scrutiny
     url: https://scrutiny.modem7.com/
-    icon: https://raw.githubusercontent.com/AnalogJ/scrutiny/master/webapp/frontend/src/assets/images/logo/scrutiny-logo-white.svg
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/4e15c407c685733d112292bca6db868ac3d2c374/Icons/scrutiny.svg
     asignee: modem7
   - name: Dozzle
     url: $DOZZLE_URL
-    icon: https://raw.githubusercontent.com/amir20/dozzle/0b09d6c785a87eadca6107699282d3de342f7246/assets/favicon.svg
+    icon: https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png
     asignee: modem7	
   - name: Snapdrop
     url: $SNAPDROP_URL
     asignee: modem7	
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/snapdrop.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
