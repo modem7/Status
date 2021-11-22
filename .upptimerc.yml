@@ -115,7 +115,7 @@ sites:
     asignee: modem7
   - name: Scrutiny
     url: https://scrutiny.modem7.com/
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/scrutiny.ico
+    icon: https://raw.githubusercontent.com/modem7/MiscAssets/4e15c407c685733d112292bca6db868ac3d2c374/Icons/scrutiny.svg
     asignee: modem7
   - name: Dozzle
     url: $DOZZLE_URL
