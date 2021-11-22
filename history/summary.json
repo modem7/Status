@@ -388,19 +388,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/portainer.png",
     "slug": "portainer",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 519,
-    "timeWeek": 533,
-    "timeMonth": 548,
-    "timeYear": 703,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 701,
+    "timeDay": 501,
+    "timeWeek": 526,
+    "timeMonth": 546,
+    "timeYear": 701,
     "dailyMinutesDown": {
-      "2021-11-22": 0
+      "2021-11-22": 14
     }
   },
   {
