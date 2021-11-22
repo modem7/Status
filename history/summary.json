@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://favicons.githubusercontent.com/omegawiki.modem7.com",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1157,
-    "timeDay": 715,
-    "timeWeek": 941,
-    "timeMonth": 1494,
-    "timeYear": 1157,
+    "time": 1155,
+    "timeDay": 803,
+    "timeWeek": 945,
+    "timeMonth": 1485,
+    "timeYear": 1155,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$PLEX_URL",
     "icon": "https://favicons.githubusercontent.com/plex.tv",
     "slug": "plex",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
-    "time": 648,
-    "timeDay": 594,
-    "timeWeek": 671,
-    "timeMonth": 789,
-    "timeYear": 648,
+    "time": 647,
+    "timeDay": 602,
+    "timeWeek": 665,
+    "timeMonth": 786,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-11-22": 1,
+      "2021-11-22": 2,
       "2021-09-16": 380
     }
   },
@@ -99,19 +99,19 @@
     "url": "https://tautulli.modem7.com/tautulli",
     "icon": "https://raw.githubusercontent.com/Tautulli/Tautulli/master/data/interfaces/default/images/favicon/favicon.ico",
     "slug": "tautulli",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 688,
-    "timeWeek": 873,
-    "timeMonth": 842,
+    "timeDay": 718,
+    "timeWeek": 862,
+    "timeMonth": 841,
     "timeYear": 799,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -119,19 +119,19 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/sct/overseerr/develop/public/favicon.ico",
     "slug": "overseer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 737,
-    "timeWeek": 886,
-    "timeMonth": 948,
-    "timeYear": 804,
+    "time": 810,
+    "timeDay": 1062,
+    "timeWeek": 977,
+    "timeMonth": 963,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -139,19 +139,19 @@
     "url": "https://ombi.modem7.com",
     "icon": "https://raw.githubusercontent.com/Ombi-app/Ombi/develop/src/Ombi/wwwroot/images/favicon/favicon.ico",
     "slug": "ombi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
-    "timeDay": 584,
-    "timeWeek": 638,
-    "timeMonth": 619,
+    "timeDay": 581,
+    "timeWeek": 631,
+    "timeMonth": 618,
     "timeYear": 570,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -159,19 +159,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/Sonarr/Sonarr/develop/Logo/Sonarr.svg",
     "slug": "sonarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 876,
-    "timeWeek": 1144,
+    "time": 1146,
+    "timeDay": 952,
+    "timeWeek": 1139,
     "timeMonth": 1147,
-    "timeYear": 1147,
+    "timeYear": 1146,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -179,19 +179,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/Radarr/Radarr/develop/Logo/Radarr.svg",
     "slug": "radarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 695,
-    "timeWeek": 777,
-    "timeMonth": 799,
-    "timeYear": 806,
+    "time": 805,
+    "timeDay": 696,
+    "timeWeek": 768,
+    "timeMonth": 797,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 2
     }
   },
   {
@@ -199,19 +199,19 @@
     "url": "$BAZARR_URL",
     "icon": "https://raw.githubusercontent.com/morpheus65535/bazarr/master/frontend/public/static/favicon.ico",
     "slug": "bazarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 702,
-    "timeWeek": 775,
-    "timeMonth": 895,
-    "timeYear": 856,
+    "time": 854,
+    "timeDay": 707,
+    "timeWeek": 768,
+    "timeMonth": 892,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2021-11-22": 0
+      "2021-11-22": 2
     }
   },
   {
@@ -239,8 +239,8 @@
     "slug": "grafana",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -249,7 +249,7 @@
     "timeMonth": 558,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2021-11-22": 0
+      "2021-11-22": 2
     }
   },
   {
@@ -293,19 +293,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 516,
-    "timeWeek": 526,
-    "timeMonth": 530,
-    "timeYear": 517,
+    "time": 516,
+    "timeDay": 492,
+    "timeWeek": 517,
+    "timeMonth": 529,
+    "timeYear": 516,
     "dailyMinutesDown": {
-      "2021-11-22": 0
+      "2021-11-22": 1
     }
   },
   {
