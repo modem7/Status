@@ -42,8 +42,8 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1155,
@@ -51,9 +51,7 @@
     "timeWeek": 945,
     "timeMonth": 1485,
     "timeYear": 1155,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -80,8 +78,8 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 647,
@@ -90,7 +88,6 @@
     "timeMonth": 786,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2021-11-22": 2,
       "2021-09-16": 380
     }
   },
@@ -101,8 +98,8 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
@@ -110,9 +107,7 @@
     "timeWeek": 862,
     "timeMonth": 841,
     "timeYear": 799,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overseer",
@@ -121,8 +116,8 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 810,
@@ -130,9 +125,7 @@
     "timeWeek": 977,
     "timeMonth": 963,
     "timeYear": 810,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ombi",
@@ -141,8 +134,8 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 570,
@@ -150,9 +143,7 @@
     "timeWeek": 631,
     "timeMonth": 618,
     "timeYear": 570,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -161,8 +152,8 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1146,
@@ -170,9 +161,7 @@
     "timeWeek": 1139,
     "timeMonth": 1147,
     "timeYear": 1146,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -181,8 +170,8 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
@@ -190,9 +179,7 @@
     "timeWeek": 768,
     "timeMonth": 797,
     "timeYear": 805,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bazarr",
@@ -201,8 +188,8 @@
     "slug": "bazarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
@@ -210,9 +197,7 @@
     "timeWeek": 768,
     "timeMonth": 892,
     "timeYear": 854,
-    "dailyMinutesDown": {
-      "2021-11-22": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NZBHydra2",
@@ -237,19 +222,19 @@
     "url": "$GRAFANA_URL",
     "icon": "https://favicons.githubusercontent.com/grafana.com",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 492,
-    "timeDay": 472,
-    "timeWeek": 528,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 493,
+    "timeDay": 511,
+    "timeWeek": 534,
     "timeMonth": 558,
-    "timeYear": 492,
+    "timeYear": 493,
     "dailyMinutesDown": {
-      "2021-11-22": 2
+      "2021-11-22": 10
     }
   },
   {
@@ -293,19 +278,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/status/master/static/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 492,
-    "timeWeek": 517,
+    "time": 517,
+    "timeDay": 504,
+    "timeWeek": 519,
     "timeMonth": 529,
-    "timeYear": 516,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2021-11-22": 1
+      "2021-11-22": 0
     }
   },
   {
