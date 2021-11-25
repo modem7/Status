@@ -4,19 +4,19 @@
     "url": "https://www.google.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/google.png",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 241,
-    "timeWeek": 217,
-    "timeMonth": 195,
+    "timeDay": 206,
+    "timeWeek": 210,
+    "timeMonth": 193,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2021-11-25": 0
+      "2021-11-25": 17
     }
   },
   {
