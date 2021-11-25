@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/google.png",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 77,
-    "timeWeek": 198,
-    "timeMonth": 189,
-    "timeYear": 206,
-    "dailyMinutesDown": {}
+    "time": 207,
+    "timeDay": 241,
+    "timeWeek": 217,
+    "timeMonth": 195,
+    "timeYear": 207,
+    "dailyMinutesDown": {
+      "2021-11-25": 0
+    }
   },
   {
     "name": "BorgBase",
@@ -85,7 +87,7 @@
     "time": 650,
     "timeDay": 743,
     "timeWeek": 675,
-    "timeMonth": 791,
+    "timeMonth": 651,
     "timeYear": 650,
     "dailyMinutesDown": {
       "2021-09-16": 380
@@ -159,7 +161,7 @@
     "time": 1151,
     "timeDay": 1269,
     "timeWeek": 1157,
-    "timeMonth": 1115,
+    "timeMonth": 1111,
     "timeYear": 1151,
     "dailyMinutesDown": {}
   },
@@ -177,7 +179,7 @@
     "time": 807,
     "timeDay": 830,
     "timeWeek": 778,
-    "timeMonth": 806,
+    "timeMonth": 804,
     "timeYear": 807,
     "dailyMinutesDown": {}
   },
@@ -195,7 +197,7 @@
     "time": 854,
     "timeDay": 849,
     "timeWeek": 786,
-    "timeMonth": 865,
+    "timeMonth": 864,
     "timeYear": 854,
     "dailyMinutesDown": {}
   },
@@ -213,7 +215,7 @@
     "time": 804,
     "timeDay": 832,
     "timeWeek": 825,
-    "timeMonth": 799,
+    "timeMonth": 797,
     "timeYear": 804,
     "dailyMinutesDown": {}
   },
@@ -249,7 +251,7 @@
     "time": 704,
     "timeDay": 729,
     "timeWeek": 704,
-    "timeMonth": 709,
+    "timeMonth": 683,
     "timeYear": 704,
     "dailyMinutesDown": {}
   },
@@ -267,7 +269,7 @@
     "time": 856,
     "timeDay": 858,
     "timeWeek": 809,
-    "timeMonth": 847,
+    "timeMonth": 844,
     "timeYear": 856,
     "dailyMinutesDown": {}
   },
@@ -357,7 +359,7 @@
     "time": 941,
     "timeDay": 1024,
     "timeWeek": 968,
-    "timeMonth": 914,
+    "timeMonth": 915,
     "timeYear": 941,
     "dailyMinutesDown": {}
   },
@@ -385,11 +387,11 @@
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png",
     "slug": "3-cx",
     "status": "up",
-    "uptime": "97.44%",
+    "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.44%",
+    "uptimeYear": "97.48%",
     "time": 568,
     "timeDay": 544,
     "timeWeek": 580,
