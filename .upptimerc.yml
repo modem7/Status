@@ -105,10 +105,10 @@ sites:
   - name: Pihole
     url: $PIHOLE_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png
-  - name: 3CX
-    url: $PBX_URL
-    icon: https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png
-    asignee: modem7
+#  - name: 3CX
+#    url: $PBX_URL
+#    icon: https://github.com/modem7/MiscAssets/blob/master/Icons/3CX.png
+#    asignee: modem7
   - name: Portainer
     url: $PORTAINER_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png
