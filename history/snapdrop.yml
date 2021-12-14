@@ -1,7 +1,7 @@
 url: $SNAPDROP_URL
-status: up
-code: 200
-responseTime: 547
-lastUpdated: 2021-12-14T00:12:13.552Z
+status: down
+code: 404
+responseTime: 516
+lastUpdated: 2021-12-14T04:32:42.927Z
 startTime: Wed Nov 03 2021 11:34:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
