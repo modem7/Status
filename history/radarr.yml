@@ -1,7 +1,7 @@
 url: $RADARR_URL
-status: down
-code: 521
-responseTime: 194
-lastUpdated: 2021-12-29T06:16:40.628Z
+status: up
+code: 200
+responseTime: 1074
+lastUpdated: 2021-12-29T06:19:18.270Z
 startTime: Sun Sep 19 2021 02:06:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
