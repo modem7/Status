@@ -44,9 +44,9 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 1123,
     "timeDay": 815,
@@ -54,7 +54,6 @@
     "timeMonth": 1065,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1190
     }
   },
@@ -103,9 +102,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 808,
     "timeDay": 713,
@@ -113,7 +112,6 @@
     "timeMonth": 833,
     "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1190
     }
   },
@@ -124,9 +122,9 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 883,
     "timeDay": 735,
@@ -134,7 +132,6 @@
     "timeMonth": 1124,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1190
     }
   },
@@ -145,9 +142,9 @@
     "slug": "ombi",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 596,
     "timeDay": 569,
@@ -155,7 +152,6 @@
     "timeMonth": 638,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1190
     }
   },
@@ -166,9 +162,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 1132,
     "timeDay": 801,
@@ -176,7 +172,6 @@
     "timeMonth": 1087,
     "timeYear": 1132,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1320,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -189,9 +184,9 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 796,
     "timeDay": 794,
@@ -199,7 +194,6 @@
     "timeMonth": 778,
     "timeYear": 796,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1320,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -212,9 +206,9 @@
     "slug": "bazarr",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 825,
     "timeDay": 709,
@@ -222,7 +216,6 @@
     "timeMonth": 779,
     "timeYear": 825,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1320,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -235,9 +228,9 @@
     "slug": "nzb-hydra2",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 819,
     "timeDay": 742,
@@ -245,7 +238,6 @@
     "timeMonth": 811,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1320,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -256,19 +248,18 @@
     "url": "$GRAFANA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
-    "status": "down",
+    "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
-    "time": 595,
-    "timeDay": 485,
-    "timeWeek": 518,
+    "time": 594,
+    "timeDay": 502,
+    "timeWeek": 520,
     "timeMonth": 518,
-    "timeYear": 595,
+    "timeYear": 594,
     "dailyMinutesDown": {
-      "2022-01-28": 4,
       "2021-12-06": 1190
     }
   },
@@ -279,9 +270,9 @@
     "slug": "netdata",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 684,
     "timeDay": 766,
@@ -289,7 +280,6 @@
     "timeMonth": 646,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1320,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -302,9 +292,9 @@
     "slug": "flame",
     "status": "up",
     "uptime": "98.76%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.76%",
     "time": 640,
     "timeDay": 618,
@@ -312,7 +302,6 @@
     "timeMonth": 631,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1190
     }
   },
@@ -359,9 +348,9 @@
     "slug": "hastebin",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 645,
     "timeDay": 622,
@@ -369,7 +358,6 @@
     "timeMonth": 675,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1190
     }
   },
@@ -380,9 +368,9 @@
     "slug": "x-backbone",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 918,
     "timeDay": 783,
@@ -390,7 +378,6 @@
     "timeMonth": 853,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1321,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -403,9 +390,9 @@
     "slug": "pihole",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 664,
     "timeDay": 754,
@@ -413,7 +400,6 @@
     "timeMonth": 688,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1321,
       "2021-12-05": 1440,
       "2021-12-04": 1168
@@ -426,9 +412,9 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.40%",
     "time": 628,
     "timeDay": 495,
@@ -436,7 +422,6 @@
     "timeMonth": 500,
     "timeYear": 628,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1190
     }
   },
@@ -447,9 +432,9 @@
     "slug": "dozzle",
     "status": "up",
     "uptime": "97.92%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "97.92%",
     "time": 937,
     "timeDay": 725,
@@ -457,7 +442,6 @@
     "timeMonth": 825,
     "timeYear": 937,
     "dailyMinutesDown": {
-      "2022-01-28": 3,
       "2021-12-06": 1321,
       "2021-12-05": 1440,
       "2021-12-04": 1167
