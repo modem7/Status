@@ -1,7 +1,7 @@
 url: $XBACKBONE_URL
-status: up
-code: 200
-responseTime: 1027
-lastUpdated: 2022-01-30T05:25:06.828Z
+status: down
+code: 523
+responseTime: 825
+lastUpdated: 2022-01-30T17:43:59.225Z
 startTime: Sun Sep 19 2021 02:18:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
