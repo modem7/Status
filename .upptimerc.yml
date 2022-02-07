@@ -117,10 +117,6 @@ sites:
     url: $DOZZLE_URL
     icon: https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png
     asignee: modem7	
-  - name: Snapdrop
-    url: $SNAPDROP_URL
-    asignee: modem7	
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/snapdrop.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
