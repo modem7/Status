@@ -36,10 +36,6 @@ sites:
     url: https://overseer.modem7.com
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png
     asignee: modem7
-  - name: Ombi
-    url: https://ombi.modem7.com
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/ombi.png
-    asignee: modem7
   - name: Sonarr
     url: $SONARR_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png
