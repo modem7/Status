@@ -308,19 +308,19 @@
     "url": "https://drone.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/droneci.png",
     "slug": "drone-ci",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "95.09%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 745,
-    "timeDay": 627,
-    "timeWeek": 624,
-    "timeMonth": 703,
+    "timeDay": 688,
+    "timeWeek": 638,
+    "timeMonth": 706,
     "timeYear": 745,
     "dailyMinutesDown": {
-      "2022-04-05": 0
+      "2022-04-05": 71
     }
   },
   {
