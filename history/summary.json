@@ -44,9 +44,9 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 1128,
     "timeDay": 780,
@@ -54,7 +54,6 @@
     "timeMonth": 1055,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2022-04-12": 6,
       "2021-12-06": 1190
     }
   },
@@ -82,18 +81,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
     "time": 693,
     "timeDay": 561,
     "timeWeek": 639,
     "timeMonth": 753,
     "timeYear": 693,
     "dailyMinutesDown": {
-      "2022-04-12": 4,
       "2021-09-16": 380
     }
   },
@@ -104,9 +102,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
     "time": 873,
     "timeDay": 722,
@@ -114,7 +112,6 @@
     "timeMonth": 876,
     "timeYear": 873,
     "dailyMinutesDown": {
-      "2022-04-12": 3,
       "2021-12-06": 1190
     }
   },
