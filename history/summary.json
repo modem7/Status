@@ -328,19 +328,19 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 873,
-    "timeWeek": 1059,
-    "timeMonth": 972,
-    "timeYear": 934,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 935,
+    "timeDay": 969,
+    "timeWeek": 1068,
+    "timeMonth": 976,
+    "timeYear": 935,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 22
     }
   },
   {
@@ -348,19 +348,19 @@
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 663,
-    "timeWeek": 731,
-    "timeMonth": 671,
-    "timeYear": 701,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 702,
+    "timeDay": 772,
+    "timeWeek": 754,
+    "timeMonth": 678,
+    "timeYear": 702,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 22
     }
   },
   {
@@ -386,19 +386,19 @@
     "url": "$DOZZLE_URL",
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png",
     "slug": "dozzle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 907,
-    "timeDay": 882,
-    "timeWeek": 900,
-    "timeMonth": 832,
+    "timeDay": 907,
+    "timeWeek": 905,
+    "timeMonth": 835,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2022-04-26": 1
+      "2022-04-26": 22
     }
   }
 ]
