@@ -328,36 +328,40 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 1128,
-    "timeWeek": 1108,
-    "timeMonth": 981,
-    "timeYear": 935,
-    "dailyMinutesDown": {}
+    "time": 934,
+    "timeDay": 873,
+    "timeWeek": 1059,
+    "timeMonth": 972,
+    "timeYear": 934,
+    "dailyMinutesDown": {
+      "2022-04-26": 1
+    }
   },
   {
     "name": "Pihole",
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 701,
-    "timeDay": 719,
-    "timeWeek": 745,
-    "timeMonth": 672,
+    "timeDay": 663,
+    "timeWeek": 731,
+    "timeMonth": 671,
     "timeYear": 701,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 1
+    }
   },
   {
     "name": "Portainer",
@@ -382,17 +386,19 @@
     "url": "$DOZZLE_URL",
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png",
     "slug": "dozzle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 907,
-    "timeDay": 806,
-    "timeWeek": 893,
-    "timeMonth": 829,
+    "timeDay": 882,
+    "timeWeek": 900,
+    "timeMonth": 832,
     "timeYear": 907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-26": 1
+    }
   }
 ]
