@@ -256,18 +256,20 @@
     "url": "$FLAME_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png",
     "slug": "flame",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 643,
-    "timeWeek": 695,
-    "timeMonth": 667,
-    "timeYear": 699,
-    "dailyMinutesDown": {}
+    "time": 698,
+    "timeDay": 584,
+    "timeWeek": 674,
+    "timeMonth": 663,
+    "timeYear": 698,
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "Bitwarden",
