@@ -40,18 +40,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1121,
-    "timeDay": 946,
-    "timeWeek": 1003,
-    "timeMonth": 974,
-    "timeYear": 1121,
-    "dailyMinutesDown": {}
+    "time": 1119,
+    "timeDay": 761,
+    "timeWeek": 950,
+    "timeMonth": 964,
+    "timeYear": 1119,
+    "dailyMinutesDown": {
+      "2022-05-04": 0
+    }
   },
   {
     "name": "Blog",
@@ -258,8 +260,8 @@
     "slug": "flame",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 698,
@@ -267,9 +269,7 @@
     "timeWeek": 678,
     "timeMonth": 665,
     "timeYear": 698,
-    "dailyMinutesDown": {
-      "2022-05-04": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwarden",
@@ -331,19 +331,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 937,
     "timeDay": 993,
     "timeWeek": 1004,
     "timeMonth": 977,
     "timeYear": 937,
-    "dailyMinutesDown": {
-      "2022-04-26": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pihole",
@@ -351,19 +349,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 702,
     "timeDay": 701,
     "timeWeek": 710,
     "timeMonth": 686,
     "timeYear": 702,
-    "dailyMinutesDown": {
-      "2022-04-26": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -389,18 +385,16 @@
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png",
     "slug": "dozzle",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 906,
     "timeDay": 860,
     "timeWeek": 870,
     "timeMonth": 843,
     "timeYear": 906,
-    "dailyMinutesDown": {
-      "2022-04-26": 22
-    }
+    "dailyMinutesDown": {}
   }
 ]
