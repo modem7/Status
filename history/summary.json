@@ -328,10 +328,10 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 940,
@@ -339,7 +339,9 @@
     "timeWeek": 1114,
     "timeMonth": 1034,
     "timeYear": 940,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-08": 1
+    }
   },
   {
     "name": "Pihole",
