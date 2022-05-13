@@ -1,7 +1,7 @@
 url: $NETDATA_URL
-status: up
-code: 200
-responseTime: 711
-lastUpdated: 2022-05-12T23:04:59.646Z
+status: down
+code: 521
+responseTime: 233
+lastUpdated: 2022-05-13T02:12:51.718Z
 startTime: Sun Sep 19 2021 01:59:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
