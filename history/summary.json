@@ -114,37 +114,35 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 925,
     "timeDay": 975,
     "timeWeek": 917,
     "timeMonth": 940,
     "timeYear": 925,
-    "dailyMinutesDown": {
-      "2022-05-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1152,
-    "timeDay": 983,
-    "timeWeek": 1051,
-    "timeMonth": 1129,
+    "timeDay": 987,
+    "timeWeek": 1048,
+    "timeMonth": 1126,
     "timeYear": 1152,
     "dailyMinutesDown": {
-      "2022-05-20": 9
+      "2022-05-20": 17
     }
   },
   {
@@ -152,19 +150,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 829,
-    "timeDay": 666,
-    "timeWeek": 780,
-    "timeMonth": 817,
-    "timeYear": 829,
+    "time": 828,
+    "timeDay": 667,
+    "timeWeek": 772,
+    "timeMonth": 814,
+    "timeYear": 828,
     "dailyMinutesDown": {
-      "2022-05-20": 9
+      "2022-05-20": 17
     }
   },
   {
@@ -172,19 +170,19 @@
     "url": "$BAZARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bazarr.png",
     "slug": "bazarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 855,
-    "timeDay": 558,
-    "timeWeek": 785,
-    "timeMonth": 821,
+    "timeDay": 590,
+    "timeWeek": 780,
+    "timeMonth": 819,
     "timeYear": 855,
     "dailyMinutesDown": {
-      "2022-05-20": 0
+      "2022-05-20": 8
     }
   },
   {
@@ -284,18 +282,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 529,
     "timeDay": 439,
     "timeWeek": 532,
     "timeMonth": 550,
     "timeYear": 529,
-    "dailyMinutesDown": {
-      "2022-05-20": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DroneCI",
