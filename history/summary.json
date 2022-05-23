@@ -112,17 +112,17 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 921,
-    "timeDay": 738,
-    "timeWeek": 823,
-    "timeMonth": 903,
-    "timeYear": 921,
+    "time": 923,
+    "timeDay": 879,
+    "timeWeek": 866,
+    "timeMonth": 919,
+    "timeYear": 923,
     "dailyMinutesDown": {
       "2022-05-23": 1
     }
@@ -132,19 +132,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 795,
-    "timeWeek": 906,
-    "timeMonth": 1082,
-    "timeYear": 1145,
+    "time": 1147,
+    "timeDay": 979,
+    "timeWeek": 962,
+    "timeMonth": 1102,
+    "timeYear": 1147,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 1
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "$BAZARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bazarr.png",
     "slug": "bazarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 850,
-    "timeDay": 636,
-    "timeWeek": 665,
-    "timeMonth": 784,
-    "timeYear": 850,
+    "time": 852,
+    "timeDay": 803,
+    "timeWeek": 719,
+    "timeMonth": 804,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 1
     }
   },
   {
@@ -280,19 +280,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 525,
-    "timeDay": 360,
-    "timeWeek": 456,
-    "timeMonth": 518,
+    "timeDay": 359,
+    "timeWeek": 451,
+    "timeMonth": 515,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2022-05-23": 0
+      "2022-05-23": 1
     }
   },
   {
