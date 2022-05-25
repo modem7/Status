@@ -368,19 +368,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 642,
-    "timeDay": 325,
-    "timeWeek": 496,
-    "timeMonth": 545,
+    "timeDay": 356,
+    "timeWeek": 491,
+    "timeMonth": 542,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2022-05-25": 0
+      "2022-05-25": 8
     }
   },
   {
