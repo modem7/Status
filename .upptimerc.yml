@@ -62,10 +62,6 @@ sites:
     url: $NETDATA_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/netdata.png
     asignee: modem7
-  - name: Gitea
-    url: $GITEA_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/gitea.png
-    asignee: modem7
   - name: Flame
     url: $FLAME_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png
