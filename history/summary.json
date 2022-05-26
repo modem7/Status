@@ -41,19 +41,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1176,
-    "timeDay": 593,
+    "timeDay": 833,
     "timeWeek": 736,
     "timeMonth": 1578,
     "timeYear": 1176,
-    "dailyMinutesDown": {
-      "2022-05-25": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -133,19 +131,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1145,
-    "timeDay": 781,
+    "timeDay": 826,
     "timeWeek": 985,
     "timeMonth": 1085,
     "timeYear": 1145,
-    "dailyMinutesDown": {
-      "2022-05-25": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -242,18 +238,20 @@
     "url": "$GITEA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/gitea.png",
     "slug": "gitea",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 458,
-    "timeWeek": 495,
-    "timeMonth": 612,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "time": 619,
+    "timeDay": 422,
+    "timeWeek": 487,
+    "timeMonth": 607,
+    "timeYear": 619,
+    "dailyMinutesDown": {
+      "2022-05-26": 0
+    }
   },
   {
     "name": "Flame",
@@ -341,7 +339,7 @@
     "time": 933,
     "timeDay": 767,
     "timeWeek": 745,
-    "timeMonth": 918,
+    "timeMonth": 919,
     "timeYear": 933,
     "dailyMinutesDown": {}
   },
@@ -359,7 +357,7 @@
     "time": 698,
     "timeDay": 500,
     "timeWeek": 533,
-    "timeMonth": 677,
+    "timeMonth": 672,
     "timeYear": 698,
     "dailyMinutesDown": {}
   },
@@ -395,7 +393,7 @@
     "time": 893,
     "timeDay": 597,
     "timeWeek": 673,
-    "timeMonth": 800,
+    "timeMonth": 793,
     "timeYear": 893,
     "dailyMinutesDown": {}
   }
