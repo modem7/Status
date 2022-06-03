@@ -40,18 +40,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 1142,
-    "timeWeek": 883,
-    "timeMonth": 1531,
-    "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "time": 1211,
+    "timeDay": 10029,
+    "timeWeek": 3137,
+    "timeMonth": 1865,
+    "timeYear": 1211,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Blog",
@@ -94,18 +96,20 @@
     "url": "https://tautulli.modem7.com/tautulli",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 1086,
-    "timeWeek": 810,
-    "timeMonth": 796,
-    "timeYear": 868,
-    "dailyMinutesDown": {}
+    "time": 867,
+    "timeDay": 743,
+    "timeWeek": 759,
+    "timeMonth": 788,
+    "timeYear": 867,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Overseer",
@@ -148,18 +152,20 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 822,
-    "timeDay": 1064,
-    "timeWeek": 747,
-    "timeMonth": 758,
-    "timeYear": 822,
-    "dailyMinutesDown": {}
+    "time": 821,
+    "timeDay": 734,
+    "timeWeek": 704,
+    "timeMonth": 752,
+    "timeYear": 821,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Bazarr",
@@ -274,18 +280,20 @@
     "url": "https://drone.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/droneci.png",
     "slug": "drone-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 891,
-    "timeWeek": 619,
-    "timeMonth": 637,
-    "timeYear": 727,
-    "dailyMinutesDown": {}
+    "time": 726,
+    "timeDay": 626,
+    "timeWeek": 587,
+    "timeMonth": 632,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Hastebin",
@@ -310,18 +318,20 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 931,
-    "timeDay": 1213,
-    "timeWeek": 873,
-    "timeMonth": 894,
-    "timeYear": 931,
-    "dailyMinutesDown": {}
+    "time": 930,
+    "timeDay": 786,
+    "timeWeek": 808,
+    "timeMonth": 883,
+    "timeYear": 930,
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Pihole",
@@ -346,18 +356,20 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 636,
-    "timeDay": 615,
-    "timeWeek": 458,
-    "timeMonth": 520,
+    "timeDay": 505,
+    "timeWeek": 450,
+    "timeMonth": 517,
     "timeYear": 636,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-03": 0
+    }
   },
   {
     "name": "Dozzle",
