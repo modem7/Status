@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1211,
-    "timeDay": 10029,
-    "timeWeek": 3137,
-    "timeMonth": 1865,
-    "timeYear": 1211,
+    "time": 1210,
+    "timeDay": 6990,
+    "timeWeek": 2890,
+    "timeMonth": 1847,
+    "timeYear": 1210,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://tautulli.modem7.com/tautulli",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/tautulli.png",
     "slug": "tautulli",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 867,
-    "timeDay": 743,
-    "timeWeek": 759,
-    "timeMonth": 788,
-    "timeYear": 867,
+    "time": 866,
+    "timeDay": 687,
+    "timeWeek": 739,
+    "timeMonth": 783,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
@@ -152,19 +152,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 821,
-    "timeDay": 734,
-    "timeWeek": 704,
-    "timeMonth": 752,
+    "timeDay": 707,
+    "timeWeek": 698,
+    "timeMonth": 750,
     "timeYear": 821,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
@@ -280,19 +280,19 @@
     "url": "https://drone.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/droneci.png",
     "slug": "drone-ci",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 726,
-    "timeDay": 626,
-    "timeWeek": 587,
-    "timeMonth": 632,
+    "timeDay": 580,
+    "timeWeek": 576,
+    "timeMonth": 629,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
@@ -318,19 +318,19 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 930,
-    "timeDay": 786,
-    "timeWeek": 808,
-    "timeMonth": 883,
-    "timeYear": 930,
+    "time": 929,
+    "timeDay": 764,
+    "timeWeek": 799,
+    "timeMonth": 879,
+    "timeYear": 929,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
@@ -356,19 +356,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 505,
-    "timeWeek": 450,
-    "timeMonth": 517,
-    "timeYear": 636,
+    "time": 635,
+    "timeDay": 476,
+    "timeWeek": 446,
+    "timeMonth": 515,
+    "timeYear": 635,
     "dailyMinutesDown": {
-      "2022-06-03": 0
+      "2022-06-03": 8
     }
   },
   {
