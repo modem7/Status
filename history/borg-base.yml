@@ -1,7 +1,7 @@
 url: https://www.borgbase.com/
-status: down
-code: 500
-responseTime: 10194
-lastUpdated: 2022-06-21T06:56:01.832Z
+status: up
+code: 200
+responseTime: 180
+lastUpdated: 2022-06-21T07:16:06.758Z
 startTime: Sun Sep 19 2021 01:45:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
