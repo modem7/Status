@@ -40,18 +40,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 846,
-    "timeWeek": 925,
-    "timeMonth": 965,
-    "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "time": 1195,
+    "timeDay": 7892,
+    "timeWeek": 2003,
+    "timeMonth": 1137,
+    "timeYear": 1195,
+    "dailyMinutesDown": {
+      "2022-07-10": 1
+    }
   },
   {
     "name": "Blog",
@@ -292,18 +294,20 @@
     "url": "$HASTEBIN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png",
     "slug": "hastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 515,
-    "timeWeek": 573,
-    "timeMonth": 486,
+    "timeDay": 558,
+    "timeWeek": 576,
+    "timeMonth": 488,
     "timeYear": 630,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-10": 1
+    }
   },
   {
     "name": "XBackbone",
