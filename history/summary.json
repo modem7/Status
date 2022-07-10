@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1195,
-    "timeDay": 7892,
-    "timeWeek": 2003,
-    "timeMonth": 1137,
+    "timeDay": 5552,
+    "timeWeek": 1923,
+    "timeMonth": 1134,
     "timeYear": 1195,
     "dailyMinutesDown": {
-      "2022-07-10": 1
+      "2022-07-10": 10
     }
   },
   {
@@ -294,19 +294,19 @@
     "url": "$HASTEBIN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png",
     "slug": "hastebin",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 630,
-    "timeDay": 558,
-    "timeWeek": 576,
+    "time": 629,
+    "timeDay": 534,
+    "timeWeek": 569,
     "timeMonth": 488,
-    "timeYear": 630,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2022-07-10": 1
+      "2022-07-10": 9
     }
   },
   {
