@@ -40,18 +40,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1194,
-    "timeDay": 946,
-    "timeWeek": 2081,
-    "timeMonth": 1150,
-    "timeYear": 1194,
-    "dailyMinutesDown": {}
+    "time": 1193,
+    "timeDay": 809,
+    "timeWeek": 1980,
+    "timeMonth": 1144,
+    "timeYear": 1193,
+    "dailyMinutesDown": {
+      "2022-07-12": 0
+    }
   },
   {
     "name": "Blog",
