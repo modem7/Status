@@ -150,18 +150,20 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 788,
-    "timeDay": 661,
-    "timeWeek": 757,
-    "timeMonth": 610,
-    "timeYear": 788,
-    "dailyMinutesDown": {}
+    "time": 787,
+    "timeDay": 558,
+    "timeWeek": 732,
+    "timeMonth": 608,
+    "timeYear": 787,
+    "dailyMinutesDown": {
+      "2022-07-14": 0
+    }
   },
   {
     "name": "Bazarr",
