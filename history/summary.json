@@ -150,19 +150,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 787,
-    "timeDay": 558,
-    "timeWeek": 732,
-    "timeMonth": 608,
+    "timeDay": 605,
+    "timeWeek": 730,
+    "timeMonth": 610,
     "timeYear": 787,
     "dailyMinutesDown": {
-      "2022-07-14": 0
+      "2022-07-14": 27
     }
   },
   {
