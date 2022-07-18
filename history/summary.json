@@ -78,18 +78,20 @@
     "url": "$PLEX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
-    "timeDay": 511,
-    "timeWeek": 577,
-    "timeMonth": 643,
+    "timeDay": 480,
+    "timeWeek": 564,
+    "timeMonth": 641,
     "timeYear": 679,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "Tautulli",
