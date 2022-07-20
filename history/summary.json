@@ -332,19 +332,19 @@
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 662,
-    "timeDay": 367,
-    "timeWeek": 559,
-    "timeMonth": 497,
+    "timeDay": 526,
+    "timeWeek": 591,
+    "timeMonth": 502,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2022-07-20": 1
+      "2022-07-20": 17
     }
   },
   {
