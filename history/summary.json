@@ -332,18 +332,20 @@
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 675,
-    "timeWeek": 631,
-    "timeMonth": 503,
-    "timeYear": 663,
-    "dailyMinutesDown": {}
+    "time": 662,
+    "timeDay": 367,
+    "timeWeek": 559,
+    "timeMonth": 497,
+    "timeYear": 662,
+    "dailyMinutesDown": {
+      "2022-07-20": 1
+    }
   },
   {
     "name": "Portainer",
