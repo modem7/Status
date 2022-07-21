@@ -31,7 +31,7 @@
     "time": 330,
     "timeDay": 325,
     "timeWeek": 276,
-    "timeMonth": 441,
+    "timeMonth": 239,
     "timeYear": 330,
     "dailyMinutesDown": {}
   },
@@ -87,7 +87,7 @@
     "time": 680,
     "timeDay": 859,
     "timeWeek": 665,
-    "timeMonth": 645,
+    "timeMonth": 644,
     "timeYear": 680,
     "dailyMinutesDown": {}
   },
@@ -105,7 +105,7 @@
     "time": 832,
     "timeDay": 1053,
     "timeWeek": 877,
-    "timeMonth": 639,
+    "timeMonth": 635,
     "timeYear": 832,
     "dailyMinutesDown": {}
   },
@@ -123,7 +123,7 @@
     "time": 881,
     "timeDay": 1039,
     "timeWeek": 863,
-    "timeMonth": 664,
+    "timeMonth": 660,
     "timeYear": 881,
     "dailyMinutesDown": {}
   },
@@ -141,7 +141,7 @@
     "time": 1096,
     "timeDay": 1423,
     "timeWeek": 1181,
-    "timeMonth": 862,
+    "timeMonth": 858,
     "timeYear": 1096,
     "dailyMinutesDown": {}
   },
@@ -153,13 +153,13 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 788,
     "timeDay": 988,
-    "timeWeek": 781,
-    "timeMonth": 618,
+    "timeWeek": 839,
+    "timeMonth": 616,
     "timeYear": 788,
     "dailyMinutesDown": {
       "2022-07-14": 27
@@ -179,7 +179,7 @@
     "time": 809,
     "timeDay": 1213,
     "timeWeek": 863,
-    "timeMonth": 615,
+    "timeMonth": 612,
     "timeYear": 809,
     "dailyMinutesDown": {}
   },
@@ -197,7 +197,7 @@
     "time": 807,
     "timeDay": 1001,
     "timeWeek": 840,
-    "timeMonth": 605,
+    "timeMonth": 602,
     "timeYear": 807,
     "dailyMinutesDown": {}
   },
@@ -215,7 +215,7 @@
     "time": 558,
     "timeDay": 626,
     "timeWeek": 513,
-    "timeMonth": 497,
+    "timeMonth": 496,
     "timeYear": 558,
     "dailyMinutesDown": {}
   },
@@ -233,7 +233,7 @@
     "time": 696,
     "timeDay": 813,
     "timeWeek": 676,
-    "timeMonth": 502,
+    "timeMonth": 499,
     "timeYear": 696,
     "dailyMinutesDown": {}
   },
@@ -251,7 +251,7 @@
     "time": 731,
     "timeDay": 1205,
     "timeWeek": 994,
-    "timeMonth": 700,
+    "timeMonth": 694,
     "timeYear": 731,
     "dailyMinutesDown": {}
   },
@@ -269,7 +269,7 @@
     "time": 593,
     "timeDay": 623,
     "timeWeek": 509,
-    "timeMonth": 794,
+    "timeMonth": 393,
     "timeYear": 593,
     "dailyMinutesDown": {}
   },
@@ -287,7 +287,7 @@
     "time": 756,
     "timeDay": 808,
     "timeWeek": 662,
-    "timeMonth": 890,
+    "timeMonth": 488,
     "timeYear": 756,
     "dailyMinutesDown": {}
   },
@@ -296,18 +296,20 @@
     "url": "$HASTEBIN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png",
     "slug": "hastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 629,
-    "timeDay": 802,
-    "timeWeek": 654,
+    "timeDay": 652,
+    "timeWeek": 635,
     "timeMonth": 488,
     "timeYear": 629,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 1
+    }
   },
   {
     "name": "XBackbone",
@@ -323,7 +325,7 @@
     "time": 896,
     "timeDay": 1277,
     "timeWeek": 992,
-    "timeMonth": 710,
+    "timeMonth": 703,
     "timeYear": 896,
     "dailyMinutesDown": {}
   },
@@ -334,14 +336,14 @@
     "slug": "pihole",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 579,
+    "timeDay": 835,
     "timeWeek": 631,
-    "timeMonth": 502,
+    "timeMonth": 503,
     "timeYear": 663,
     "dailyMinutesDown": {
       "2022-07-20": 17
@@ -361,7 +363,7 @@
     "time": 591,
     "timeDay": 623,
     "timeWeek": 500,
-    "timeMonth": 400,
+    "timeMonth": 397,
     "timeYear": 591,
     "dailyMinutesDown": {}
   },
@@ -379,7 +381,7 @@
     "time": 873,
     "timeDay": 1032,
     "timeWeek": 824,
-    "timeMonth": 824,
+    "timeMonth": 597,
     "timeYear": 873,
     "dailyMinutesDown": {}
   }
