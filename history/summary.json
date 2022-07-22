@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.98%",
-    "time": 1186,
-    "timeDay": 953,
-    "timeWeek": 931,
-    "timeMonth": 940,
-    "timeYear": 1186,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.97%",
+    "time": 1185,
+    "timeDay": 972,
+    "timeWeek": 939,
+    "timeMonth": 941,
+    "timeYear": 1185,
     "dailyMinutesDown": {
-      "2022-07-22": 90
+      "2022-07-22": 130
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "$GRAFANA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "65.14%",
-    "uptimeWeek": "95.02%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.88%",
+    "uptimeDay": "62.40%",
+    "uptimeWeek": "94.63%",
+    "uptimeMonth": "98.76%",
+    "uptimeYear": "99.88%",
     "time": 558,
-    "timeDay": 383,
-    "timeWeek": 507,
-    "timeMonth": 421,
+    "timeDay": 494,
+    "timeWeek": 519,
+    "timeMonth": 423,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-07-22": 502
+      "2022-07-22": 541
     }
   },
   {
