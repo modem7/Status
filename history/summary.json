@@ -202,11 +202,11 @@
     "url": "$GRAFANA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "2.52%",
-    "uptimeWeek": "85.81%",
-    "uptimeMonth": "96.74%",
+    "uptimeWeek": "85.73%",
+    "uptimeMonth": "96.72%",
     "uptimeYear": "99.68%",
     "time": 558,
     "timeDay": 530,
@@ -214,7 +214,7 @@
     "timeMonth": 424,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-07-24": 20,
+      "2022-07-24": 28,
       "2022-07-23": 1408,
       "2022-07-22": 2
     }
