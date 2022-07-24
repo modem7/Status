@@ -40,10 +40,10 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
@@ -51,7 +51,9 @@
     "timeWeek": 934,
     "timeMonth": 940,
     "timeYear": 1185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-24": 2
+    }
   },
   {
     "name": "Blog",
@@ -202,10 +204,10 @@
     "url": "$GRAFANA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "2.55%",
-    "uptimeWeek": "83.79%",
+    "uptimeDay": "5.11%",
+    "uptimeWeek": "83.78%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "99.64%",
     "time": 558,
@@ -214,7 +216,7 @@
     "timeMonth": 424,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2022-07-24": 224,
+      "2022-07-24": 225,
       "2022-07-23": 1408,
       "2022-07-22": 2
     }
