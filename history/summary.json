@@ -41,20 +41,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.72%",
-    "uptimeDay": "18.19%",
-    "uptimeWeek": "87.23%",
-    "uptimeMonth": "97.06%",
-    "uptimeYear": "99.72%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1185,
-    "timeDay": 986,
+    "timeDay": 963,
     "timeWeek": 934,
     "timeMonth": 940,
     "timeYear": 1185,
-    "dailyMinutesDown": {
-      "2022-07-23": 1157,
-      "2022-07-22": 130
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -206,19 +203,20 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "80.64%",
-    "uptimeMonth": "95.54%",
-    "uptimeYear": "99.57%",
+    "uptime": "99.68%",
+    "uptimeDay": "2.52%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.68%",
     "time": 558,
-    "timeDay": 567,
+    "timeDay": 530,
     "timeWeek": 507,
     "timeMonth": 424,
     "timeYear": 558,
     "dailyMinutesDown": {
+      "2022-07-24": 20,
       "2022-07-23": 1408,
-      "2022-07-22": 543
+      "2022-07-22": 2
     }
   },
   {
