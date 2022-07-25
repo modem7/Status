@@ -44,10 +44,6 @@ sites:
     url: $RADARR_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png
     asignee: modem7
-  - name: Bazarr
-    url: $BAZARR_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bazarr.png
-    asignee: modem7
   - name: NZBHydra2
     url: $HYDRA_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png
