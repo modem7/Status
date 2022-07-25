@@ -41,20 +41,17 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
     "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "54.10%",
-    "uptimeWeek": "86.15%",
-    "uptimeMonth": "96.81%",
-    "uptimeYear": "99.69%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1185,
     "timeDay": 1082,
     "timeWeek": 975,
     "timeMonth": 943,
     "timeYear": 1185,
-    "dailyMinutesDown": {
-      "2022-07-25": 220,
-      "2022-07-24": 1177
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -133,18 +130,20 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1097,
-    "timeDay": 1024,
-    "timeWeek": 1226,
-    "timeMonth": 856,
-    "timeYear": 1097,
-    "dailyMinutesDown": {}
+    "time": 1096,
+    "timeDay": 787,
+    "timeWeek": 1142,
+    "timeMonth": 852,
+    "timeYear": 1096,
+    "dailyMinutesDown": {
+      "2022-07-25": 0
+    }
   },
   {
     "name": "Radarr",
@@ -206,11 +205,11 @@
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
     "status": "up",
-    "uptime": "99.16%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "62.23%",
-    "uptimeMonth": "91.31%",
-    "uptimeYear": "99.16%",
+    "uptime": "99.21%",
+    "uptimeDay": "15.79%",
+    "uptimeWeek": "64.45%",
+    "uptimeMonth": "91.82%",
+    "uptimeYear": "99.21%",
     "time": 558,
     "timeDay": 660,
     "timeWeek": 533,
@@ -218,7 +217,7 @@
     "timeYear": 558,
     "dailyMinutesDown": {
       "2022-07-25": 998,
-      "2022-07-24": 1399,
+      "2022-07-24": 1175,
       "2022-07-23": 1408,
       "2022-07-22": 2
     }
