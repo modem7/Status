@@ -130,18 +130,20 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1098,
-    "timeDay": 1388,
-    "timeWeek": 1212,
-    "timeMonth": 871,
-    "timeYear": 1098,
-    "dailyMinutesDown": {}
+    "time": 1097,
+    "timeDay": 922,
+    "timeWeek": 1143,
+    "timeMonth": 866,
+    "timeYear": 1097,
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   },
   {
     "name": "Radarr",
@@ -323,7 +325,7 @@
     "uptimeYear": "100.00%",
     "time": 663,
     "timeDay": 842,
-    "timeWeek": 653,
+    "timeWeek": 703,
     "timeMonth": 510,
     "timeYear": 663,
     "dailyMinutesDown": {}
