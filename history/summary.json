@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1182,
-    "timeDay": 726,
-    "timeWeek": 937,
-    "timeMonth": 941,
-    "timeYear": 1182,
+    "time": 1181,
+    "timeDay": 742,
+    "timeWeek": 924,
+    "timeMonth": 939,
+    "timeYear": 1181,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 21
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1096,
-    "timeDay": 960,
-    "timeWeek": 1103,
-    "timeMonth": 873,
+    "timeDay": 957,
+    "timeWeek": 1092,
+    "timeMonth": 874,
     "timeYear": 1096,
     "dailyMinutesDown": {
-      "2022-07-28": 0
+      "2022-07-28": 21
     }
   },
   {
