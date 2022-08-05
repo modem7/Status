@@ -130,19 +130,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1095,
-    "timeDay": 815,
-    "timeWeek": 1019,
-    "timeMonth": 1050,
-    "timeYear": 1095,
+    "time": 1096,
+    "timeDay": 934,
+    "timeWeek": 1049,
+    "timeMonth": 1057,
+    "timeYear": 1096,
     "dailyMinutesDown": {
-      "2022-08-05": 1
+      "2022-08-05": 9
     }
   },
   {
