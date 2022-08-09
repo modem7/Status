@@ -207,10 +207,10 @@
     "url": "$NETDATA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/netdata.png",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 695,
@@ -218,7 +218,9 @@
     "timeWeek": 624,
     "timeMonth": 638,
     "timeYear": 695,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-08-09": 1
+    }
   },
   {
     "name": "Flame",
@@ -245,18 +247,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 589,
     "timeDay": 589,
     "timeWeek": 492,
     "timeMonth": 494,
     "timeYear": 589,
-    "dailyMinutesDown": {
-      "2022-08-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DroneCI",
@@ -337,18 +337,16 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 587,
     "timeDay": 588,
     "timeWeek": 493,
     "timeMonth": 490,
     "timeYear": 587,
-    "dailyMinutesDown": {
-      "2022-08-09": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dozzle",
