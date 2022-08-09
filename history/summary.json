@@ -243,19 +243,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 589,
-    "timeDay": 582,
-    "timeWeek": 483,
-    "timeMonth": 491,
+    "timeDay": 589,
+    "timeWeek": 492,
+    "timeMonth": 494,
     "timeYear": 589,
     "dailyMinutesDown": {
-      "2022-08-09": 1
+      "2022-08-09": 10
     }
   },
   {
@@ -335,19 +335,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png",
     "slug": "portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 587,
-    "timeDay": 582,
-    "timeWeek": 484,
-    "timeMonth": 488,
+    "timeDay": 588,
+    "timeWeek": 493,
+    "timeMonth": 490,
     "timeYear": 587,
     "dailyMinutesDown": {
-      "2022-08-09": 1
+      "2022-08-09": 10
     }
   },
   {
