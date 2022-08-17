@@ -352,17 +352,19 @@
     "url": "$DOZZLE_URL",
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png",
     "slug": "dozzle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 868,
-    "timeDay": 1007,
-    "timeWeek": 800,
-    "timeMonth": 815,
-    "timeYear": 868,
-    "dailyMinutesDown": {}
+    "time": 867,
+    "timeDay": 737,
+    "timeWeek": 767,
+    "timeMonth": 806,
+    "timeYear": 867,
+    "dailyMinutesDown": {
+      "2022-08-17": 1
+    }
   }
 ]
