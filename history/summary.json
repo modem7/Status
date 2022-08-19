@@ -40,19 +40,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 755,
-    "timeWeek": 967,
-    "timeMonth": 996,
-    "timeYear": 1173,
+    "time": 1171,
+    "timeDay": 630,
+    "timeWeek": 902,
+    "timeMonth": 980,
+    "timeYear": 1171,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "$PLEX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 680,
-    "timeDay": 546,
-    "timeWeek": 670,
-    "timeMonth": 687,
-    "timeYear": 680,
+    "time": 679,
+    "timeDay": 472,
+    "timeWeek": 642,
+    "timeMonth": 678,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://tautulli.modem7.com/tautulli",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 662,
-    "timeWeek": 884,
-    "timeMonth": 881,
-    "timeYear": 835,
+    "time": 834,
+    "timeDay": 559,
+    "timeWeek": 821,
+    "timeMonth": 866,
+    "timeYear": 834,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 832,
-    "timeWeek": 937,
-    "timeMonth": 929,
-    "timeYear": 884,
+    "time": 883,
+    "timeDay": 683,
+    "timeWeek": 879,
+    "timeMonth": 913,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -138,19 +138,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 1102,
-    "timeDay": 2151,
-    "timeWeek": 1370,
-    "timeMonth": 1168,
-    "timeYear": 1102,
+    "time": 1101,
+    "timeDay": 1670,
+    "timeWeek": 1288,
+    "timeMonth": 1150,
+    "timeYear": 1101,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -158,19 +158,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 790,
-    "timeDay": 622,
-    "timeWeek": 834,
-    "timeMonth": 816,
-    "timeYear": 790,
+    "time": 789,
+    "timeDay": 531,
+    "timeWeek": 786,
+    "timeMonth": 803,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -178,19 +178,19 @@
     "url": "$HYDRA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png",
     "slug": "nzb-hydra2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 636,
-    "timeWeek": 823,
-    "timeMonth": 806,
-    "timeYear": 806,
+    "time": 805,
+    "timeDay": 538,
+    "timeWeek": 765,
+    "timeMonth": 792,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -198,19 +198,19 @@
     "url": "$GRAFANA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png",
     "slug": "grafana",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "91.73%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "91.72%",
     "uptimeYear": "99.26%",
     "time": 555,
-    "timeDay": 436,
-    "timeWeek": 523,
-    "timeMonth": 521,
+    "timeDay": 394,
+    "timeWeek": 498,
+    "timeMonth": 516,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-08-19": 20,
+      "2022-08-19": 21,
       "2022-08-11": 20,
       "2022-07-25": 998,
       "2022-07-24": 1175,
@@ -223,19 +223,19 @@
     "url": "$NETDATA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/netdata.png",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 543,
-    "timeWeek": 688,
-    "timeMonth": 658,
-    "timeYear": 693,
+    "time": 692,
+    "timeDay": 463,
+    "timeWeek": 641,
+    "timeMonth": 648,
+    "timeYear": 692,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -243,19 +243,19 @@
     "url": "$FLAME_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png",
     "slug": "flame",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.52%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 749,
-    "timeDay": 717,
-    "timeWeek": 970,
-    "timeMonth": 934,
-    "timeYear": 749,
+    "time": 748,
+    "timeDay": 600,
+    "timeWeek": 898,
+    "timeMonth": 917,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -263,19 +263,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 410,
-    "timeWeek": 526,
-    "timeMonth": 522,
-    "timeYear": 587,
+    "time": 586,
+    "timeDay": 367,
+    "timeWeek": 498,
+    "timeMonth": 515,
+    "timeYear": 586,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -283,19 +283,19 @@
     "url": "https://drone.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/droneci.png",
     "slug": "drone-ci",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 539,
-    "timeWeek": 695,
-    "timeMonth": 660,
-    "timeYear": 749,
+    "time": 748,
+    "timeDay": 458,
+    "timeWeek": 647,
+    "timeMonth": 649,
+    "timeYear": 748,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -303,19 +303,19 @@
     "url": "$HASTEBIN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png",
     "slug": "hastebin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 630,
-    "timeDay": 534,
-    "timeWeek": 680,
-    "timeMonth": 655,
+    "timeDay": 455,
+    "timeWeek": 634,
+    "timeMonth": 645,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -323,19 +323,19 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 753,
-    "timeWeek": 1345,
-    "timeMonth": 1046,
-    "timeYear": 907,
+    "time": 906,
+    "timeDay": 617,
+    "timeWeek": 1232,
+    "timeMonth": 1026,
+    "timeYear": 906,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -343,19 +343,19 @@
     "url": "$PIHOLE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/pihole.png",
     "slug": "pihole",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 664,
-    "timeDay": 532,
-    "timeWeek": 690,
-    "timeMonth": 668,
-    "timeYear": 664,
+    "time": 663,
+    "timeDay": 464,
+    "timeWeek": 647,
+    "timeMonth": 659,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -363,19 +363,19 @@
     "url": "$PORTAINER_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/portainer.png",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 584,
-    "timeDay": 421,
-    "timeWeek": 525,
-    "timeMonth": 506,
+    "timeDay": 366,
+    "timeWeek": 493,
+    "timeMonth": 499,
     "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   },
   {
@@ -383,19 +383,19 @@
     "url": "$DOZZLE_URL",
     "icon": "https://github.com/modem7/MiscAssets/blob/master/Icons/HeimdallIcons/dozzle.png",
     "slug": "dozzle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.59%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 866,
-    "timeDay": 654,
-    "timeWeek": 827,
-    "timeMonth": 803,
-    "timeYear": 866,
+    "time": 865,
+    "timeDay": 542,
+    "timeWeek": 775,
+    "timeMonth": 789,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2022-08-19": 20
+      "2022-08-19": 21
     }
   }
 ]
