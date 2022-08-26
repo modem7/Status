@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 145,
-    "timeDay": 104,
-    "timeWeek": 135,
+    "timeDay": 66,
+    "timeWeek": 133,
     "timeMonth": 103,
     "timeYear": 145,
     "dailyMinutesDown": {}
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 213,
-    "timeWeek": 215,
-    "timeMonth": 247,
+    "timeDay": 179,
+    "timeWeek": 214,
+    "timeMonth": 241,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -42,18 +42,16 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1169,
-    "timeDay": 961,
-    "timeWeek": 902,
-    "timeMonth": 987,
-    "timeYear": 1169,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 1175,
+    "timeDay": 2146,
+    "timeWeek": 1182,
+    "timeMonth": 1065,
+    "timeYear": 1175,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 407,
-    "timeWeek": 308,
+    "timeDay": 271,
+    "timeWeek": 301,
     "timeMonth": 294,
     "timeYear": 307,
     "dailyMinutesDown": {}
@@ -80,18 +78,16 @@
     "slug": "plex",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
-    "timeDay": 735,
-    "timeWeek": 645,
-    "timeMonth": 682,
+    "timeDay": 678,
+    "timeWeek": 640,
+    "timeMonth": 677,
     "timeYear": 680,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tautulli",
@@ -100,18 +96,16 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 835,
-    "timeDay": 897,
-    "timeWeek": 804,
-    "timeMonth": 869,
+    "timeDay": 831,
+    "timeWeek": 793,
+    "timeMonth": 865,
     "timeYear": 835,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Overseer",
@@ -120,18 +114,16 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 902,
-    "timeWeek": 1045,
-    "timeMonth": 971,
-    "timeYear": 888,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 891,
+    "timeDay": 1478,
+    "timeWeek": 1185,
+    "timeMonth": 1009,
+    "timeYear": 891,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sonarr",
@@ -140,18 +132,16 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1103,
-    "timeDay": 1149,
-    "timeWeek": 1366,
-    "timeMonth": 1156,
+    "timeDay": 1046,
+    "timeWeek": 1349,
+    "timeMonth": 1153,
     "timeYear": 1103,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Radarr",
@@ -160,18 +150,16 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 790,
-    "timeDay": 836,
-    "timeWeek": 760,
-    "timeMonth": 810,
+    "timeDay": 795,
+    "timeWeek": 751,
+    "timeMonth": 806,
     "timeYear": 790,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "NZBHydra2",
@@ -180,18 +168,16 @@
     "slug": "nzb-hydra2",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 806,
-    "timeDay": 850,
-    "timeWeek": 774,
-    "timeMonth": 803,
+    "timeDay": 788,
+    "timeWeek": 763,
+    "timeMonth": 799,
     "timeYear": 806,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -200,17 +186,16 @@
     "slug": "grafana",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.28%",
     "time": 555,
-    "timeDay": 618,
-    "timeWeek": 511,
-    "timeMonth": 524,
+    "timeDay": 576,
+    "timeWeek": 502,
+    "timeMonth": 518,
     "timeYear": 555,
     "dailyMinutesDown": {
-      "2022-08-25": 13,
       "2022-07-25": 998,
       "2022-07-24": 1175,
       "2022-07-23": 1408,
@@ -224,18 +209,16 @@
     "slug": "netdata",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 693,
-    "timeDay": 739,
-    "timeWeek": 648,
-    "timeMonth": 659,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 692,
+    "timeDay": 651,
+    "timeWeek": 632,
+    "timeMonth": 654,
+    "timeYear": 692,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flame",
@@ -244,18 +227,16 @@
     "slug": "flame",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 754,
-    "timeDay": 904,
-    "timeWeek": 909,
-    "timeMonth": 935,
+    "timeDay": 833,
+    "timeWeek": 892,
+    "timeMonth": 929,
     "timeYear": 754,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Bitwarden",
@@ -264,18 +245,16 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 584,
-    "timeWeek": 532,
-    "timeMonth": 534,
-    "timeYear": 587,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 586,
+    "timeDay": 544,
+    "timeWeek": 528,
+    "timeMonth": 530,
+    "timeYear": 586,
+    "dailyMinutesDown": {}
   },
   {
     "name": "DroneCI",
@@ -284,18 +263,16 @@
     "slug": "drone-ci",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 748,
-    "timeDay": 706,
-    "timeWeek": 647,
-    "timeMonth": 660,
-    "timeYear": 748,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 747,
+    "timeDay": 662,
+    "timeWeek": 637,
+    "timeMonth": 658,
+    "timeYear": 747,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hastebin",
@@ -304,18 +281,16 @@
     "slug": "hastebin",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 631,
-    "timeDay": 694,
-    "timeWeek": 630,
-    "timeMonth": 654,
+    "timeDay": 648,
+    "timeWeek": 617,
+    "timeMonth": 649,
     "timeYear": 631,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "XBackbone",
@@ -324,18 +299,16 @@
     "slug": "x-backbone",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 908,
-    "timeDay": 952,
-    "timeWeek": 904,
-    "timeMonth": 1026,
+    "timeDay": 900,
+    "timeWeek": 891,
+    "timeMonth": 1021,
     "timeYear": 908,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Pihole",
@@ -344,18 +317,16 @@
     "slug": "pihole",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 737,
-    "timeWeek": 647,
-    "timeMonth": 679,
+    "timeDay": 669,
+    "timeWeek": 636,
+    "timeMonth": 676,
     "timeYear": 664,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portainer",
@@ -364,18 +335,16 @@
     "slug": "portainer",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 583,
-    "timeDay": 465,
-    "timeWeek": 475,
-    "timeMonth": 504,
-    "timeYear": 583,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "time": 582,
+    "timeDay": 436,
+    "timeWeek": 470,
+    "timeMonth": 500,
+    "timeYear": 582,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dozzle",
@@ -384,17 +353,15 @@
     "slug": "dozzle",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
-    "timeDay": 698,
-    "timeWeek": 732,
-    "timeMonth": 789,
+    "timeDay": 621,
+    "timeWeek": 714,
+    "timeMonth": 785,
     "timeYear": 864,
-    "dailyMinutesDown": {
-      "2022-08-25": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
