@@ -40,18 +40,20 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1173,
-    "timeDay": 1160,
-    "timeWeek": 1013,
-    "timeMonth": 1060,
-    "timeYear": 1173,
-    "dailyMinutesDown": {}
+    "time": 1172,
+    "timeDay": 1022,
+    "timeWeek": 997,
+    "timeMonth": 1056,
+    "timeYear": 1172,
+    "dailyMinutesDown": {
+      "2022-09-04": 0
+    }
   },
   {
     "name": "Blog",
@@ -193,7 +195,7 @@
     "time": 554,
     "timeDay": 528,
     "timeWeek": 513,
-    "timeMonth": 515,
+    "timeMonth": 512,
     "timeYear": 554,
     "dailyMinutesDown": {
       "2022-07-25": 998,
@@ -243,18 +245,20 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 585,
-    "timeDay": 537,
-    "timeWeek": 501,
-    "timeMonth": 528,
+    "timeDay": 473,
+    "timeWeek": 489,
+    "timeMonth": 525,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 0
+    }
   },
   {
     "name": "DroneCI",
