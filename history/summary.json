@@ -76,10 +76,10 @@
     "url": "$PLEX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 679,
@@ -87,43 +87,49 @@
     "timeWeek": 645,
     "timeMonth": 667,
     "timeYear": 708,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-14": 2
+    }
   },
   {
     "name": "Tautulli",
     "url": "https://tautulli.modem7.com/tautulli",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/tautulli.png",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 781,
     "timeWeek": 807,
     "timeMonth": 864,
-    "timeYear": 845,
-    "dailyMinutesDown": {}
+    "timeYear": 846,
+    "dailyMinutesDown": {
+      "2022-09-14": 1
+    }
   },
   {
     "name": "Overseer",
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 794,
-    "timeWeek": 833,
-    "timeMonth": 1001,
-    "timeYear": 914,
-    "dailyMinutesDown": {}
+    "timeDay": 956,
+    "timeWeek": 868,
+    "timeMonth": 1004,
+    "timeYear": 916,
+    "dailyMinutesDown": {
+      "2022-09-14": 1
+    }
   },
   {
     "name": "Sonarr",
