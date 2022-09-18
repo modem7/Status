@@ -112,18 +112,20 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 898,
-    "timeDay": 1101,
-    "timeWeek": 1388,
-    "timeMonth": 1099,
-    "timeYear": 931,
-    "dailyMinutesDown": {}
+    "timeDay": 776,
+    "timeWeek": 1294,
+    "timeMonth": 1083,
+    "timeYear": 930,
+    "dailyMinutesDown": {
+      "2022-09-18": 1
+    }
   },
   {
     "name": "Sonarr",
@@ -139,7 +141,7 @@
     "time": 1106,
     "timeDay": 1407,
     "timeWeek": 1284,
-    "timeMonth": 1216,
+    "timeMonth": 1244,
     "timeYear": 1106,
     "dailyMinutesDown": {}
   },
@@ -166,18 +168,20 @@
     "url": "$HYDRA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png",
     "slug": "nzb-hydra2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 807,
-    "timeDay": 998,
-    "timeWeek": 870,
-    "timeMonth": 807,
-    "timeYear": 807,
-    "dailyMinutesDown": {}
+    "time": 809,
+    "timeDay": 1368,
+    "timeWeek": 978,
+    "timeMonth": 830,
+    "timeYear": 809,
+    "dailyMinutesDown": {
+      "2022-09-18": 0
+    }
   },
   {
     "name": "Grafana",
@@ -243,18 +247,20 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 584,
-    "timeDay": 640,
-    "timeWeek": 564,
-    "timeMonth": 527,
+    "time": 583,
+    "timeDay": 539,
+    "timeWeek": 551,
+    "timeMonth": 525,
     "timeYear": 585,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-18": 1
+    }
   },
   {
     "name": "DroneCI",
