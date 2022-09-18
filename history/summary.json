@@ -112,19 +112,19 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 898,
-    "timeDay": 776,
-    "timeWeek": 1294,
-    "timeMonth": 1083,
+    "timeDay": 800,
+    "timeWeek": 1254,
+    "timeMonth": 1077,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2022-09-18": 1
+      "2022-09-18": 11
     }
   },
   {
@@ -168,19 +168,19 @@
     "url": "$HYDRA_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png",
     "slug": "nzb-hydra2",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 809,
-    "timeDay": 1368,
-    "timeWeek": 978,
-    "timeMonth": 830,
-    "timeYear": 809,
+    "time": 808,
+    "timeDay": 1114,
+    "timeWeek": 937,
+    "timeMonth": 825,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2022-09-18": 0
+      "2022-09-18": 11
     }
   },
   {
@@ -247,19 +247,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 583,
-    "timeDay": 539,
-    "timeWeek": 551,
-    "timeMonth": 525,
-    "timeYear": 585,
+    "timeDay": 505,
+    "timeWeek": 541,
+    "timeMonth": 523,
+    "timeYear": 584,
     "dailyMinutesDown": {
-      "2022-09-18": 1
+      "2022-09-18": 11
     }
   },
   {
