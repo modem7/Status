@@ -79,9 +79,9 @@ sites:
 ##############
 # - PASTEBINS#
 ##############
-  - name: Hastebin
+  - name: Pastebin
     url: $HASTEBIN_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/hastebin.png
+    icon: https://raw.githubusercontent.com/enchant97/hasty-paste/main/paste_bin/static/icon.svg
     asignee: modem7
   - name: XBackbone
     url: $XBACKBONE_URL
