@@ -80,7 +80,7 @@ sites:
 # - PASTEBINS#
 ##############
   - name: Pastebin
-    url: $HASTEBIN_URL
+    url: $PASTEBIN_URL
     icon: https://raw.githubusercontent.com/enchant97/hasty-paste/main/paste_bin/static/icon.svg
     asignee: modem7
   - name: XBackbone
