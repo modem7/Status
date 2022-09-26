@@ -1,7 +1,7 @@
 url: $HYDRA_URL
-status: up
-code: 200
-responseTime: 2262
-lastUpdated: 2022-09-26T23:04:55.137Z
+status: down
+code: 521
+responseTime: 212
+lastUpdated: 2022-09-26T23:43:54.392Z
 startTime: Sun Sep 19 2021 02:06:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
