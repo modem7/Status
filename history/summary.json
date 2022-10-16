@@ -42,9 +42,9 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 1170,
     "timeDay": 721,
@@ -52,7 +52,6 @@
     "timeMonth": 1195,
     "timeYear": 1202,
     "dailyMinutesDown": {
-      "2022-10-16": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -82,9 +81,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 700,
     "timeDay": 1220,
@@ -92,7 +91,6 @@
     "timeMonth": 975,
     "timeYear": 726,
     "dailyMinutesDown": {
-      "2022-10-16": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -104,9 +102,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 850,
     "timeDay": 596,
@@ -114,7 +112,6 @@
     "timeMonth": 1023,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2022-10-16": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -126,9 +123,9 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 919,
     "timeDay": 670,
@@ -136,7 +133,6 @@
     "timeMonth": 1153,
     "timeYear": 952,
     "dailyMinutesDown": {
-      "2022-10-16": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -148,9 +144,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.06%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.62%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
     "time": 1161,
     "timeDay": 859,
@@ -158,7 +154,6 @@
     "timeMonth": 1796,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2022-10-16": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -168,18 +163,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
     "uptimeYear": "99.97%",
-    "time": 826,
-    "timeDay": 865,
-    "timeWeek": 1390,
-    "timeMonth": 1227,
+    "time": 825,
+    "timeDay": 641,
+    "timeWeek": 1292,
+    "timeMonth": 1211,
     "timeYear": 827,
     "dailyMinutesDown": {
+      "2022-10-16": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
