@@ -50,7 +50,7 @@
     "timeDay": 1057,
     "timeWeek": 1109,
     "timeMonth": 1024,
-    "timeYear": 1163,
+    "timeYear": 1165,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -89,7 +89,7 @@
     "timeDay": 733,
     "timeWeek": 742,
     "timeMonth": 1275,
-    "timeYear": 756,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -110,7 +110,7 @@
     "timeDay": 952,
     "timeWeek": 1188,
     "timeMonth": 918,
-    "timeYear": 865,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -142,18 +142,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1159,
-    "timeDay": 1092,
-    "timeWeek": 1270,
-    "timeMonth": 1301,
+    "time": 1158,
+    "timeDay": 933,
+    "timeWeek": 1189,
+    "timeMonth": 1284,
     "timeYear": 1157,
     "dailyMinutesDown": {
+      "2022-11-05": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -163,18 +164,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 831,
-    "timeDay": 1231,
-    "timeWeek": 1156,
-    "timeMonth": 1011,
-    "timeYear": 834,
+    "time": 830,
+    "timeDay": 803,
+    "timeWeek": 1058,
+    "timeMonth": 998,
+    "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-11-05": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -194,7 +196,7 @@
     "timeDay": 893,
     "timeWeek": 973,
     "timeMonth": 893,
-    "timeYear": 827,
+    "timeYear": 828,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -215,7 +217,7 @@
     "timeDay": 609,
     "timeWeek": 575,
     "timeMonth": 563,
-    "timeYear": 567,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16,
@@ -240,7 +242,7 @@
     "timeDay": 809,
     "timeWeek": 770,
     "timeMonth": 699,
-    "timeYear": 701,
+    "timeYear": 702,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -282,7 +284,7 @@
     "timeDay": 562,
     "timeWeek": 560,
     "timeMonth": 594,
-    "timeYear": 601,
+    "timeYear": 602,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -303,7 +305,7 @@
     "timeDay": 791,
     "timeWeek": 744,
     "timeMonth": 815,
-    "timeYear": 743,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -315,11 +317,11 @@
     "icon": "https://raw.githubusercontent.com/enchant97/hasty-paste/main/paste_bin/static/icon.svg",
     "slug": "pastebin",
     "status": "up",
-    "uptime": "99.77%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
+    "uptimeYear": "99.78%",
     "time": 1003,
     "timeDay": 1398,
     "timeWeek": 1062,
@@ -345,7 +347,7 @@
     "timeDay": 841,
     "timeWeek": 998,
     "timeMonth": 1150,
-    "timeYear": 952,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -366,7 +368,7 @@
     "timeDay": 1205,
     "timeWeek": 1296,
     "timeMonth": 951,
-    "timeYear": 692,
+    "timeYear": 693,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -408,7 +410,7 @@
     "timeDay": 1723,
     "timeWeek": 1168,
     "timeMonth": 992,
-    "timeYear": 865,
+    "timeYear": 864,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
