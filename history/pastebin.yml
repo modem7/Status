@@ -1,7 +1,7 @@
 url: $PASTEBIN_URL
-status: up
-code: 200
-responseTime: 1310
-lastUpdated: 2022-11-05T23:05:06.007Z
+status: down
+code: 404
+responseTime: 623
+lastUpdated: 2022-11-06T16:15:24.084Z
 startTime: Mon Sep 19 2022 01:37:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
