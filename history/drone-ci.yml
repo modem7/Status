@@ -1,7 +1,7 @@
 url: https://drone.modem7.com
-status: down
-code: 404
-responseTime: 399
-lastUpdated: 2022-11-18T16:10:34.726Z
+status: up
+code: 200
+responseTime: 1069
+lastUpdated: 2022-11-18T16:13:54.495Z
 startTime: Mon Sep 13 2021 01:05:25 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
