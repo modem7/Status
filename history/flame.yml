@@ -1,7 +1,7 @@
 url: $FLAME_URL
-status: up
-code: 200
-responseTime: 897
-lastUpdated: 2022-11-17T23:04:53.792Z
+status: down
+code: 404
+responseTime: 399
+lastUpdated: 2022-11-18T16:10:29.287Z
 startTime: Mon Nov 22 2021 21:06:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
