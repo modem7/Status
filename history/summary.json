@@ -42,19 +42,19 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 1240,
-    "timeDay": 796,
-    "timeWeek": 2130,
-    "timeMonth": 1321,
+    "timeDay": 916,
+    "timeWeek": 2194,
+    "timeMonth": 1318,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2022-12-24": 0,
+      "2022-12-24": 11,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -132,7 +132,7 @@
     "uptimeYear": "99.97%",
     "time": 1032,
     "timeDay": 1120,
-    "timeWeek": 875,
+    "timeWeek": 923,
     "timeMonth": 2009,
     "timeYear": 1050,
     "dailyMinutesDown": {
@@ -153,7 +153,7 @@
     "uptimeYear": "99.97%",
     "time": 1156,
     "timeDay": 1392,
-    "timeWeek": 1137,
+    "timeWeek": 1109,
     "timeMonth": 1140,
     "timeYear": 1159,
     "dailyMinutesDown": {
@@ -174,7 +174,7 @@
     "uptimeYear": "99.97%",
     "time": 834,
     "timeDay": 1040,
-    "timeWeek": 775,
+    "timeWeek": 787,
     "timeMonth": 837,
     "timeYear": 836,
     "dailyMinutesDown": {
@@ -195,7 +195,7 @@
     "uptimeYear": "99.97%",
     "time": 828,
     "timeDay": 1003,
-    "timeWeek": 781,
+    "timeWeek": 796,
     "timeMonth": 831,
     "timeYear": 829,
     "dailyMinutesDown": {
