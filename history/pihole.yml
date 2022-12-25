@@ -1,7 +1,7 @@
 url: $PIHOLE_URL
-status: down
-code: 521
-responseTime: 254
-lastUpdated: 2022-12-25T19:53:32.733Z
+status: up
+code: 200
+responseTime: 984
+lastUpdated: 2022-12-25T19:59:37.723Z
 startTime: Sun Sep 19 2021 02:25:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
