@@ -6,9 +6,6 @@ sites:
 #####################
 # - GENERAL WEBSITES#
 #####################
-  - name: Google
-    url: https://www.google.com
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/google.png
   - name: BorgBase
     url: https://www.borgbase.com/
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/borgbase.png
