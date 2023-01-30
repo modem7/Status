@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 136,
+    "timeDay": 140,
     "timeWeek": 174,
     "timeMonth": 166,
     "timeYear": 250,
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1238,
-    "timeDay": 1239,
+    "time": 1222,
+    "timeDay": 1050,
     "timeWeek": 1423,
     "timeMonth": 1399,
-    "timeYear": 1249,
+    "timeYear": 1246,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -52,7 +52,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 283,
+    "timeDay": 274,
     "timeWeek": 309,
     "timeMonth": 272,
     "timeYear": 298,
@@ -70,10 +70,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 782,
-    "timeDay": 1274,
+    "timeDay": 563,
     "timeWeek": 975,
     "timeMonth": 1097,
-    "timeYear": 809,
+    "timeYear": 806,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 911,
-    "timeDay": 969,
+    "timeDay": 749,
     "timeWeek": 985,
     "timeMonth": 1420,
-    "timeYear": 932,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -112,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1038,
-    "timeDay": 1277,
+    "timeDay": 829,
     "timeWeek": 1141,
     "timeMonth": 1099,
-    "timeYear": 1048,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -133,7 +133,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1170,
-    "timeDay": 1164,
+    "timeDay": 1014,
     "timeWeek": 1288,
     "timeMonth": 1331,
     "timeYear": 1179,
@@ -147,18 +147,19 @@
     "url": "$RADARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png",
     "slug": "radarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 836,
-    "timeDay": 939,
-    "timeWeek": 950,
-    "timeMonth": 889,
-    "timeYear": 846,
+    "time": 835,
+    "timeDay": 605,
+    "timeWeek": 913,
+    "timeMonth": 882,
+    "timeYear": 841,
     "dailyMinutesDown": {
+      "2023-01-30": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -175,10 +176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 832,
-    "timeDay": 582,
+    "timeDay": 748,
     "timeWeek": 813,
     "timeMonth": 855,
-    "timeYear": 834,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -196,10 +197,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
     "time": 564,
-    "timeDay": 400,
+    "timeDay": 443,
     "timeWeek": 562,
     "timeMonth": 590,
-    "timeYear": 534,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16,
@@ -221,10 +222,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 711,
-    "timeDay": 539,
+    "timeDay": 597,
     "timeWeek": 700,
     "timeMonth": 786,
-    "timeYear": 719,
+    "timeYear": 716,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -242,10 +243,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 822,
-    "timeDay": 745,
+    "timeDay": 783,
     "timeWeek": 925,
     "timeMonth": 945,
-    "timeYear": 851,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -263,10 +264,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 601,
-    "timeDay": 450,
+    "timeDay": 457,
     "timeWeek": 555,
     "timeMonth": 585,
-    "timeYear": 619,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -284,10 +285,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 745,
-    "timeDay": 549,
+    "timeDay": 605,
     "timeWeek": 697,
     "timeMonth": 718,
-    "timeYear": 745,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -305,7 +306,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 873,
-    "timeDay": 611,
+    "timeDay": 659,
     "timeWeek": 786,
     "timeMonth": 868,
     "timeYear": 873,
@@ -326,10 +327,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 911,
-    "timeDay": 726,
+    "timeDay": 650,
     "timeWeek": 773,
     "timeMonth": 770,
-    "timeYear": 914,
+    "timeYear": 915,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -347,10 +348,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 761,
-    "timeDay": 737,
+    "timeDay": 890,
     "timeWeek": 958,
     "timeMonth": 1038,
-    "timeYear": 785,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -368,10 +369,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 576,
-    "timeDay": 489,
+    "timeDay": 539,
     "timeWeek": 653,
     "timeMonth": 656,
-    "timeYear": 586,
+    "timeYear": 583,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -389,10 +390,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 887,
-    "timeDay": 723,
+    "timeDay": 703,
     "timeWeek": 1297,
     "timeMonth": 1084,
-    "timeYear": 876,
+    "timeYear": 877,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
