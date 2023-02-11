@@ -41,9 +41,9 @@ sites:
     url: $RADARR_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/radarr.png
     asignee: modem7
-  - name: NZBHydra2
-    url: $HYDRA_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/nzbhydra2.png
+  - name: Prowlarr
+    url: $PROWLARR_URL
+    icon: https://github.com/Prowlarr/Prowlarr/raw/develop/Logo/32.png
     asignee: modem7
 ###############
 # - DASHBOARDS#
