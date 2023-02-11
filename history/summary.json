@@ -26,9 +26,9 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1229,
     "timeDay": 1535,
@@ -36,7 +36,6 @@
     "timeMonth": 1366,
     "timeYear": 1251,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -66,9 +65,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 784,
     "timeDay": 752,
@@ -76,7 +75,6 @@
     "timeMonth": 1083,
     "timeYear": 801,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -88,9 +86,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 912,
     "timeDay": 712,
@@ -98,7 +96,6 @@
     "timeMonth": 952,
     "timeYear": 926,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -110,9 +107,9 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1039,
     "timeDay": 774,
@@ -120,7 +117,6 @@
     "timeMonth": 1072,
     "timeYear": 1043,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -132,9 +128,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1168,
     "timeDay": 946,
@@ -142,7 +138,6 @@
     "timeMonth": 1175,
     "timeYear": 1176,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -154,9 +149,9 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 837,
     "timeDay": 673,
@@ -164,7 +159,6 @@
     "timeMonth": 861,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2023-02-10": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -176,9 +170,9 @@
     "slug": "nzb-hydra2",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 833,
     "timeDay": 650,
@@ -186,8 +180,7 @@
     "timeMonth": 845,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2023-02-11": 2,
-      "2023-02-10": 8,
+      "2023-02-11": 4,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
