@@ -126,18 +126,19 @@
     "url": "$SONARR_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/sonarr.png",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1167,
-    "timeDay": 1049,
-    "timeWeek": 1093,
-    "timeMonth": 1177,
-    "timeYear": 1175,
+    "timeDay": 778,
+    "timeWeek": 1040,
+    "timeMonth": 1163,
+    "timeYear": 1174,
     "dailyMinutesDown": {
+      "2023-02-12": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -255,9 +256,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 602,
     "timeDay": 520,
@@ -265,7 +266,6 @@
     "timeMonth": 583,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-02-12": 12,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
