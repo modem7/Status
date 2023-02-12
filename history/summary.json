@@ -4,18 +4,19 @@
     "url": "https://www.borgbase.com/",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/borgbase.png",
     "slug": "borg-base",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 265,
+    "time": 266,
     "timeDay": 174,
     "timeWeek": 162,
     "timeMonth": 164,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2023-02-12": 0,
       "2022-12-17": 34
     }
   },
@@ -256,9 +257,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 602,
     "timeDay": 537,
@@ -266,7 +267,6 @@
     "timeMonth": 582,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2023-02-12": 11,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
