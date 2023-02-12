@@ -33,7 +33,7 @@
     "time": 1257,
     "timeDay": 3546,
     "timeWeek": 1937,
-    "timeMonth": 1494,
+    "timeMonth": 1493,
     "timeYear": 1264,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -72,7 +72,7 @@
     "time": 785,
     "timeDay": 1405,
     "timeWeek": 729,
-    "timeMonth": 1086,
+    "timeMonth": 772,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -93,7 +93,7 @@
     "time": 912,
     "timeDay": 789,
     "timeWeek": 816,
-    "timeMonth": 942,
+    "timeMonth": 955,
     "timeYear": 926,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -114,7 +114,7 @@
     "time": 1038,
     "timeDay": 789,
     "timeWeek": 867,
-    "timeMonth": 1060,
+    "timeMonth": 1068,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -135,7 +135,7 @@
     "time": 1167,
     "timeDay": 1049,
     "timeWeek": 1093,
-    "timeMonth": 1160,
+    "timeMonth": 1177,
     "timeYear": 1175,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -156,7 +156,7 @@
     "time": 836,
     "timeDay": 739,
     "timeWeek": 778,
-    "timeMonth": 853,
+    "timeMonth": 863,
     "timeYear": 840,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -195,7 +195,7 @@
     "time": 565,
     "timeDay": 509,
     "timeWeek": 530,
-    "timeMonth": 584,
+    "timeMonth": 591,
     "timeYear": 534,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -220,7 +220,7 @@
     "time": 709,
     "timeDay": 1048,
     "timeWeek": 753,
-    "timeMonth": 760,
+    "timeMonth": 727,
     "timeYear": 717,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -241,7 +241,7 @@
     "time": 824,
     "timeDay": 849,
     "timeWeek": 887,
-    "timeMonth": 914,
+    "timeMonth": 916,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -253,18 +253,19 @@
     "url": "$BITWARDEN_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/bitwarden.png",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 602,
-    "timeDay": 411,
-    "timeWeek": 524,
-    "timeMonth": 579,
-    "timeYear": 618,
+    "timeDay": 495,
+    "timeWeek": 529,
+    "timeMonth": 583,
+    "timeYear": 617,
     "dailyMinutesDown": {
+      "2023-02-12": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -283,7 +284,7 @@
     "time": 746,
     "timeDay": 604,
     "timeWeek": 671,
-    "timeMonth": 808,
+    "timeMonth": 819,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -304,7 +305,7 @@
     "time": 863,
     "timeDay": 667,
     "timeWeek": 739,
-    "timeMonth": 851,
+    "timeMonth": 859,
     "timeYear": 863,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -325,7 +326,7 @@
     "time": 905,
     "timeDay": 565,
     "timeWeek": 707,
-    "timeMonth": 753,
+    "timeMonth": 757,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -346,7 +347,7 @@
     "time": 775,
     "timeDay": 3785,
     "timeWeek": 1229,
-    "timeMonth": 1092,
+    "timeMonth": 1107,
     "timeYear": 792,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -367,7 +368,7 @@
     "time": 579,
     "timeDay": 499,
     "timeWeek": 598,
-    "timeMonth": 632,
+    "timeMonth": 636,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2022-09-27": 138,
@@ -388,7 +389,7 @@
     "time": 881,
     "timeDay": 1036,
     "timeWeek": 803,
-    "timeMonth": 944,
+    "timeMonth": 951,
     "timeYear": 874,
     "dailyMinutesDown": {
       "2022-09-27": 138,
