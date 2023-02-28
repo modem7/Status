@@ -63,18 +63,19 @@
     "url": "$PLEX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 818,
-    "timeDay": 768,
-    "timeWeek": 590,
-    "timeMonth": 1186,
+    "timeDay": 580,
+    "timeWeek": 570,
+    "timeMonth": 1171,
     "timeYear": 839,
     "dailyMinutesDown": {
+      "2023-02-28": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -196,7 +197,7 @@
     "timeDay": 615,
     "timeWeek": 486,
     "timeMonth": 626,
-    "timeYear": 540,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16,
@@ -221,7 +222,7 @@
     "timeDay": 830,
     "timeWeek": 644,
     "timeMonth": 808,
-    "timeYear": 725,
+    "timeYear": 724,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -242,7 +243,7 @@
     "timeDay": 1201,
     "timeWeek": 871,
     "timeMonth": 884,
-    "timeYear": 859,
+    "timeYear": 860,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -284,7 +285,7 @@
     "timeDay": 831,
     "timeWeek": 656,
     "timeMonth": 951,
-    "timeYear": 767,
+    "timeYear": 766,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -326,7 +327,7 @@
     "timeDay": 971,
     "timeWeek": 718,
     "timeMonth": 710,
-    "timeYear": 899,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -368,7 +369,7 @@
     "timeDay": 724,
     "timeWeek": 538,
     "timeMonth": 576,
-    "timeYear": 554,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
