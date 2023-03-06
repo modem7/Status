@@ -26,9 +26,9 @@
     "slug": "wiki",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1285,
     "timeDay": 3229,
@@ -36,7 +36,6 @@
     "timeMonth": 2215,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -66,9 +65,9 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 825,
     "timeDay": 480,
@@ -76,7 +75,6 @@
     "timeMonth": 1285,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -88,9 +86,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 960,
     "timeDay": 707,
@@ -98,7 +96,6 @@
     "timeMonth": 1570,
     "timeYear": 969,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -110,9 +107,9 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1036,
     "timeDay": 654,
@@ -120,7 +117,6 @@
     "timeMonth": 868,
     "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -132,9 +128,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1162,
     "timeDay": 883,
@@ -142,7 +138,6 @@
     "timeMonth": 1090,
     "timeYear": 1170,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -154,9 +149,9 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 836,
     "timeDay": 608,
@@ -164,7 +159,6 @@
     "timeMonth": 779,
     "timeYear": 835,
     "dailyMinutesDown": {
-      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -175,19 +169,17 @@
     "icon": "https://github.com/Prowlarr/Prowlarr/raw/develop/Logo/32.png",
     "slug": "prowlarr",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 790,
     "timeDay": 644,
     "timeWeek": 810,
     "timeMonth": 790,
     "timeYear": 790,
-    "dailyMinutesDown": {
-      "2023-03-06": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grafana",
@@ -324,19 +316,19 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.97%",
     "time": 894,
-    "timeDay": 698,
-    "timeWeek": 760,
+    "timeDay": 704,
+    "timeWeek": 758,
     "timeMonth": 731,
-    "timeYear": 893,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2023-03-06": 1,
+      "2023-03-06": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
