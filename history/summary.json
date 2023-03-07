@@ -71,7 +71,7 @@
     "uptimeYear": "99.97%",
     "time": 825,
     "timeDay": 480,
-    "timeWeek": 990,
+    "timeWeek": 1065,
     "timeMonth": 1285,
     "timeYear": 845,
     "dailyMinutesDown": {
@@ -232,11 +232,11 @@
     "url": "$FLAME_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png",
     "slug": "flame",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 830,
     "timeDay": 835,
@@ -244,7 +244,7 @@
     "timeMonth": 902,
     "timeYear": 862,
     "dailyMinutesDown": {
-      "2023-03-07": 8,
+      "2023-03-07": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
