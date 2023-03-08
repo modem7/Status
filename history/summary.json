@@ -32,7 +32,7 @@
     "uptimeYear": "99.97%",
     "time": 1286,
     "timeDay": 1564,
-    "timeWeek": 2551,
+    "timeWeek": 2385,
     "timeMonth": 2216,
     "timeYear": 1340,
     "dailyMinutesDown": {
@@ -94,7 +94,7 @@
     "timeDay": 1177,
     "timeWeek": 901,
     "timeMonth": 1573,
-    "timeYear": 970,
+    "timeYear": 964,
     "dailyMinutesDown": {
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -318,11 +318,11 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 894,
     "timeDay": 869,
@@ -330,7 +330,7 @@
     "timeMonth": 739,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2023-03-08": 9,
+      "2023-03-08": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
