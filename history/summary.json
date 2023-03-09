@@ -232,10 +232,10 @@
     "url": "$FLAME_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png",
     "slug": "flame",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 834,
@@ -244,6 +244,7 @@
     "timeMonth": 854,
     "timeYear": 860,
     "dailyMinutesDown": {
+      "2023-03-09": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -318,9 +319,9 @@
     "slug": "x-backbone",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 891,
     "timeDay": 724,
@@ -328,7 +329,6 @@
     "timeMonth": 728,
     "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-03-09": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
