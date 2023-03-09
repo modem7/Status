@@ -316,11 +316,11 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 891,
     "timeDay": 631,
@@ -328,7 +328,7 @@
     "timeMonth": 707,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2023-03-09": 9,
+      "2023-03-09": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
