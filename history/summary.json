@@ -234,9 +234,9 @@
     "slug": "flame",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 837,
     "timeDay": 794,
@@ -244,7 +244,6 @@
     "timeMonth": 840,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2023-03-09": 14,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -317,11 +316,11 @@
     "url": "$XBACKBONE_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png",
     "slug": "x-backbone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 891,
     "timeDay": 648,
@@ -329,7 +328,7 @@
     "timeMonth": 712,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-03-09": 14,
+      "2023-03-09": 0,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
