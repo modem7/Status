@@ -24,11 +24,11 @@
     "url": "https://omegawiki.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/bookstack.png",
     "slug": "wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.97%",
     "time": 1291,
     "timeDay": 1027,
@@ -36,6 +36,7 @@
     "timeMonth": 1693,
     "timeYear": 1346,
     "dailyMinutesDown": {
+      "2023-03-22": 3,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -63,10 +64,10 @@
     "url": "$PLEX_URL",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/plex.png",
     "slug": "plex",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 833,
@@ -75,6 +76,7 @@
     "timeMonth": 883,
     "timeYear": 850,
     "dailyMinutesDown": {
+      "2023-03-22": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -105,18 +107,19 @@
     "url": "https://overseer.modem7.com",
     "icon": "https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/overseerr.png",
     "slug": "overseer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1033,
-    "timeDay": 1064,
-    "timeWeek": 1109,
-    "timeMonth": 1001,
-    "timeYear": 1035,
+    "time": 1032,
+    "timeDay": 900,
+    "timeWeek": 1062,
+    "timeMonth": 988,
+    "timeYear": 1033,
     "dailyMinutesDown": {
+      "2023-03-22": 1,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
