@@ -88,9 +88,9 @@
     "slug": "tautulli",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 976,
     "timeDay": 2498,
@@ -98,7 +98,6 @@
     "timeMonth": 1048,
     "timeYear": 971,
     "dailyMinutesDown": {
-      "2023-03-26": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -110,9 +109,9 @@
     "slug": "overseer",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1039,
     "timeDay": 2479,
@@ -120,7 +119,6 @@
     "timeMonth": 1113,
     "timeYear": 1041,
     "dailyMinutesDown": {
-      "2023-03-26": 7,
       "2023-03-22": 18,
       "2022-09-27": 138,
       "2022-09-26": 16
@@ -133,9 +131,9 @@
     "slug": "sonarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1172,
     "timeDay": 2752,
@@ -143,7 +141,6 @@
     "timeMonth": 1293,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-03-26": 7,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
@@ -155,9 +152,9 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 846,
     "timeDay": 2453,
@@ -165,7 +162,6 @@
     "timeMonth": 940,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-03-26": 7,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
