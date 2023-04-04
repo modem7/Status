@@ -258,9 +258,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 601,
     "timeDay": 527,
@@ -268,7 +268,6 @@
     "timeMonth": 559,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2023-04-03": 8,
       "2022-09-27": 138,
       "2022-09-26": 16
     }
