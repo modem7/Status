@@ -51,10 +51,6 @@ sites:
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png
-  - name: Netdata
-    url: $NETDATA_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/netdata.png
-    asignee: modem7
   - name: Flame
     url: $FLAME_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png
