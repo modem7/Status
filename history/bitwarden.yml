@@ -1,7 +1,7 @@
 url: $BITWARDEN_URL
-status: down
-code: 521
-responseTime: 228
-lastUpdated: 2023-04-25T07:53:17.850Z
+status: up
+code: 200
+responseTime: 488
+lastUpdated: 2023-04-25T08:01:37.947Z
 startTime: Mon Sep 13 2021 11:14:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
