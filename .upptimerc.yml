@@ -51,10 +51,10 @@ sites:
   - name: Grafana
     url: $GRAFANA_URL
     icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/HeimdallIcons/grafana.png
-  - name: Flame
-    url: $FLAME_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png
-    asignee: modem7
+#  - name: Flame
+#    url: $FLAME_URL
+#    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/flame.png
+#    asignee: modem7
 #############
 # - SECURITY#
 #############
@@ -76,10 +76,10 @@ sites:
     url: $PASTEBIN_URL
     icon: https://raw.githubusercontent.com/enchant97/hasty-paste/main/paste_bin/static/icon.svg
     asignee: modem7
-  - name: XBackbone
-    url: $XBACKBONE_URL
-    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png
-    asignee: modem7
+#  - name: XBackbone
+#    url: $XBACKBONE_URL
+#    icon: https://raw.githubusercontent.com/modem7/MiscAssets/master/Icons/xbackbone.png
+#    asignee: modem7
 ####################
 # - SYSTEM SERVICES#
 ####################
