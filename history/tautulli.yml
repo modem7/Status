@@ -1,7 +1,7 @@
 url: https://tautulli.modem7.com/tautulli
-status: down
-code: 403
-responseTime: 405
-lastUpdated: 2023-08-21T11:55:44.816Z
+status: up
+code: 200
+responseTime: 1508
+lastUpdated: 2023-08-21T12:06:21.717Z
 startTime: 2021-09-12T22:54:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
