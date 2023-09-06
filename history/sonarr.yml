@@ -1,7 +1,7 @@
 url: $SONARR_URL
-status: down
-code: 523
-responseTime: 1392
-lastUpdated: 2023-09-06T19:37:31.306Z
+status: up
+code: 200
+responseTime: 1520
+lastUpdated: 2023-09-06T19:47:54.289Z
 startTime: 2021-09-19T02:06:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
