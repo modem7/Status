@@ -1,7 +1,7 @@
 url: $PLEX_URL
-status: down
-code: 521
-responseTime: 245
-lastUpdated: 2023-09-21T16:24:10.832Z
+status: up
+code: 200
+responseTime: 857
+lastUpdated: 2023-09-21T17:42:01.239Z
 startTime: 2021-09-12T20:43:45.000Z
 generator: Upptime <https://github.com/upptime/upptime>
