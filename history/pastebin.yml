@@ -1,7 +1,7 @@
 url: $PASTEBIN_URL
-status: down
-code: 521
-responseTime: 229
-lastUpdated: 2023-09-21T16:27:29.276Z
+status: up
+code: 200
+responseTime: 994
+lastUpdated: 2023-09-21T17:42:40.767Z
 startTime: 2022-09-19T01:37:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
